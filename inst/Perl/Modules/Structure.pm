@@ -165,92 +165,101 @@ sub AvoidPhase
 }
 sub CheckConfict
 {
-	#extraction tous les donnés dans les balises
-	#et appliquer un algorithme pour trouver un mots est dans un autre mots
-	my ($curr_data,$old_data) = @_;
-	my (%tag_dico) = %{$_[2]};
-	my %tag_unitex = %{$_[3]};
-	#Modules::Utils::PrintHash(%tag_dico);
-	#couper chaque phrase
-	my @line_curr_data = split(/\.{S}/,$curr_data);
-	my @line_old_data = split(/\.{S}/,$old_data);
-	#print scalar(@line_curr_data)."\t".scalar(@line_old_data)."\n";
-	my $result = "";
-	my $total_line = (scalar(@line_curr_data) > scalar(@line_old_data))?scalar(@line_old_data):scalar(@line_curr_data);
-	for(my $n_line = 0; $n_line<$total_line;$n_line++)
+  my $result = "";
+	eval
 	{
-		#print $line_curr_data[$n_line]."\n";
-		#print $line_old_data[$n_line]."\n";
-		my %test = ();
-		foreach my $key (keys %tag_dico)
+		#extraction tous les donnés dans les balises
+		#et appliquer un algorithme pour trouver un mots est dans un autre mots
+		my ($curr_data,$old_data) = @_;
+		my (%tag_dico) = %{$_[2]};
+		my %tag_unitex = %{$_[3]};
+		#Modules::Utils::PrintHash(%tag_dico);
+		#couper chaque phrase
+		my @line_curr_data = split(/\.{S}/,$curr_data);
+		my @line_old_data = split(/\.{S}/,$old_data);
+		#print scalar(@line_curr_data)."\t".scalar(@line_old_data)."\n";
+		my $total_line = (scalar(@line_curr_data) > scalar(@line_old_data))?scalar(@line_old_data):scalar(@line_curr_data);
+		for(my $n_line = 0; $n_line<$total_line;$n_line++)
 		{
-			my $reg = "<$tag_dico{$key}>(.*?)<\/$tag_dico{$key}>";
-			%test = Modules::Entite::ExtractDataParagraphe($line_curr_data[$n_line],$reg,$line_old_data[$n_line],\%test);
-		}
-		foreach my $key (keys %tag_unitex)
-		{
-			my $reg = "<$key>(.*?)<\/$key>";
-			%test = Modules::Entite::ExtractDataParagraphe($line_curr_data[$n_line],$reg,$line_old_data[$n_line],\%test);
-		}
-		#vérifier le première, le format de donnée: <NUI>entre 1 et 10 pucerons <b>pucerons</b> pucerons par plante</NUI> ou <STA>diamètre de pomme <p>pomme</p> pomme supérieur à 25 cm</STA> ....
-		my @temp = ();
-		foreach my $key (keys %test)
-		{
-			#why can i do that?
-			#$key =~ s/[^A-Za-z0-9A-Za-zÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÑÒÓÔÕÖÙÚÛÜÝàáâãäåçèéêëìíîïñòóôõöùúûüýÿ\%\-\.\,\/]//gm;
-			if(length(Modules::Utils::Trim($key)) > 1 )
+			#print $line_curr_data[$n_line]."\n";
+			#print $line_old_data[$n_line]."\n";
+			my %test = ();
+			foreach my $key (keys %tag_dico)
 			{
-				push @temp,$key;	
+				my $reg = "<$tag_dico{$key}>(.*?)<\/$tag_dico{$key}>";
+				%test = Modules::Entite::ExtractDataParagraphe($line_curr_data[$n_line],$reg,$line_old_data[$n_line],\%test);
 			}
-		}
-		#Modules::Utils::PrintArray(@temp);
-		#print "$line_curr_data[$n_line].\n";
-		#print "pommes".$test{"pommes"}."\n";
-		#Modules::Utils::PrintHash(%test);
-		#Modules::Utils::PrintArray(@temp);
-		
-		#short items in array
-		my @sorted_temp = sort { length $b <=> length $a } @temp;
-		my $items = scalar(@sorted_temp);
-		for(my $i = 0;$i < $items - 1; $i++)
-		{
-			for(my $j = $items -1; $j > $i ; $j--)
+			foreach my $key (keys %tag_unitex)
 			{
-				#print $sorted_temp[$i]."\t-\t".$sorted_temp[$j]."\n";
-				my $test1 = $sorted_temp[$j];
-				$test1 =~ s/\(/\\(/g;
-				$test1 =~ s/\)/\\)/g;
-				if($sorted_temp[$i] =~ m/$test1/)
+				my $reg = "<$key>(.*?)<\/$key>";
+				%test = Modules::Entite::ExtractDataParagraphe($line_curr_data[$n_line],$reg,$line_old_data[$n_line],\%test);
+			}
+			#vérifier le première, le format de donnée: <NUI>entre 1 et 10 pucerons <b>pucerons</b> pucerons par plante</NUI> ou <STA>diamètre de pomme <p>pomme</p> pomme supérieur à 25 cm</STA> ....
+			my @temp = ();
+			foreach my $key (keys %test)
+			{
+				#why can i do that?
+				#$key =~ s/[^A-Za-z0-9A-Za-zÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÑÒÓÔÕÖÙÚÛÜÝàáâãäåçèéêëìíîïñòóôõöùúûüýÿ\%\-\.\,\/]//gm;
+				if(length(Modules::Utils::Trim($key)) > 1 )
 				{
-					if( exists $test{$sorted_temp[$j]} and exists $test{$sorted_temp[$i]})
-					{
-						#print $sorted_temp[$i]."\t".$sorted_temp[$j]."\t"."$sorted_temp[$court] =>".$test{$sorted_temp[$court]}."\t"."$sorted_temp[$i] =>".$test{$sorted_temp[$i]}."\t"."\n";
-						#vérifier le première, le format de donnée: <NUI>entre 1 et 10 pucerons <b>pucerons</b> pucerons par plante</NUI> ou <STA>diamètre de pomme <p>pomme</p> pomme supérieur à 25 cm</STA> ....
-						if(($test{$sorted_temp[$j]} >= 0) and ($test{$sorted_temp[$i]} eq -1))
-						{
-							#print $sorted_temp[$i]."\t".$sorted_temp[$j]."\t"."$sorted_temp[$j] =>".$test{$sorted_temp[$j]}."\t"."$sorted_temp[$i] =>".$test{$sorted_temp[$i]}."\t"."\n";
-							my $reg_del = "<[A-Za-z]+>$sorted_temp[$j]<\/[A-Za-z]+> $sorted_temp[$j] ";
-							#print "$reg_del\n";
-							#print "1. $line_curr_data[$n_line]\n";
-							$line_curr_data[$n_line] =~ s/$reg_del//gi;
-							#print "2. $line_curr_data[$n_line]\n";
-						}
-						if(($test{$sorted_temp[$j]} >= 0) and ($test{$sorted_temp[$i]} >= 0) and ($test{$sorted_temp[$j]}>=$test{$sorted_temp[$i]}) and ($test{$sorted_temp[$j]} + length($sorted_temp[$j])<=$test{$sorted_temp[$i]}+ length($sorted_temp[$i])))
-						{
-							#print "deux mots sont \"$sorted_temp[$i]\": $test{$sorted_temp[$i]} et \"$sorted_temp[$j]\":$test{$sorted_temp[$j]}.\n";
-							my $reg_del = "<[A-Za-z]+>$sorted_temp[$j]<\/[A-Za-z]+> $sorted_temp[$j]";
-							#print $reg_del."\n";
-							$line_curr_data[$n_line] =~ s/$reg_del//g;
-						}	
-					}	
+					push @temp,$key;	
 				}
 			}
+			#Modules::Utils::PrintArray(@temp);
+			#print "$line_curr_data[$n_line].\n";
+			#print "pommes".$test{"pommes"}."\n";
+			#Modules::Utils::PrintHash(%test);
+			#Modules::Utils::PrintArray(@temp);
+			
+			#short items in array
+			my @sorted_temp = sort { length $b <=> length $a } @temp;
+			my $items = scalar(@sorted_temp);
+			for(my $i = 0;$i < $items - 1; $i++)
+			{
+				for(my $j = $items -1; $j > $i ; $j--)
+				{
+					#print $sorted_temp[$i]."\t-\t".$sorted_temp[$j]."\n";
+					my $test1 = $sorted_temp[$j];
+					$test1 =~ s/\(/\\(/g;
+					$test1 =~ s/\)/\\)/g;
+					$test1 =~ s/[\[#\-%&\$*+()\]]//g;
+					#print $test1."\n";
+					if($sorted_temp[$i] =~ m/$test1/)
+					{
+						if( exists $test{$sorted_temp[$j]} and exists $test{$sorted_temp[$i]})
+						{
+							#print $sorted_temp[$i]."\t".$sorted_temp[$j]."\t"."$sorted_temp[$court] =>".$test{$sorted_temp[$court]}."\t"."$sorted_temp[$i] =>".$test{$sorted_temp[$i]}."\t"."\n";
+							#vérifier le première, le format de donnée: <NUI>entre 1 et 10 pucerons <b>pucerons</b> pucerons par plante</NUI> ou <STA>diamètre de pomme <p>pomme</p> pomme supérieur à 25 cm</STA> ....
+							if(($test{$sorted_temp[$j]} >= 0) and ($test{$sorted_temp[$i]} eq -1))
+							{
+								#print $sorted_temp[$i]."\t".$sorted_temp[$j]."\t"."$sorted_temp[$j] =>".$test{$sorted_temp[$j]}."\t"."$sorted_temp[$i] =>".$test{$sorted_temp[$i]}."\t"."\n";
+								my $reg_del = "<[A-Za-z]+>$sorted_temp[$j]<\/[A-Za-z]+> $sorted_temp[$j] ";
+								#print "$reg_del\n";
+								#print "1. $line_curr_data[$n_line]\n";
+								$line_curr_data[$n_line] =~ s/$reg_del//gi;
+								#print "2. $line_curr_data[$n_line]\n";
+							}
+							if(($test{$sorted_temp[$j]} >= 0) and ($test{$sorted_temp[$i]} >= 0) and ($test{$sorted_temp[$j]}>=$test{$sorted_temp[$i]}) and ($test{$sorted_temp[$j]} + length($sorted_temp[$j])<=$test{$sorted_temp[$i]}+ length($sorted_temp[$i])))
+							{
+								#print "deux mots sont \"$sorted_temp[$i]\": $test{$sorted_temp[$i]} et \"$sorted_temp[$j]\":$test{$sorted_temp[$j]}.\n";
+								my $reg_del = "<[A-Za-z]+>$sorted_temp[$j]<\/[A-Za-z]+> $sorted_temp[$j]";
+								#print $reg_del."\n";
+								$line_curr_data[$n_line] =~ s/$reg_del//g;
+							}	
+						}	
+					}
+				}
+			}
+			$result .= $line_curr_data[$n_line].".{S}";
+			#print "$line_curr_data[$n_line].\n\n";
+			#print "\n";
 		}
-		$result .= $line_curr_data[$n_line].".{S}";
-		#print "$line_curr_data[$n_line].\n\n";
-		#print "\n";
+		$result  =~ s/\s\s+/ /gm;	
+	};
+	if (my $e = $@) {
+    	print("Something went wrong: $e\n");
 	}
-	$result  =~ s/\s\s+/ /gm;
+	
 	return $result;
 }
 #check conflict follow every tag
