@@ -30,6 +30,34 @@ sub PrintArray
 		print $_."\n\n";
 	}
 }
+sub CheckDate
+{
+	my ($year,$month,$day) = @_;
+	my $year_sys = (localtime())[5] + 1900;
+	#check year
+	if(($year < 1900) || ($year > $year_sys))
+	{
+		$year = 1900;
+	}	
+	#check month
+	if($month < 1 || $month > 12)
+	{
+		$month = '01';
+	}
+	#check day
+	my @mdays = (0,31,28,31,30,31,30,31,31,30,31,30,31);
+	if ($month == 2) {
+    	 if ($year % 4 != 0) { $mdays[2] = 28; }
+    	 elsif ($year % 400 == 0) { $mdays[2] = 29; }
+         elsif ($year % 100 == 0) { $mdays[2] = 28; }
+         else { $mdays[2] = 29; }
+    }
+    if($day < 1 || $day > $mdays[$month])
+    {
+    	$day = '01';
+    }
+    return ($year,$month,$day);
+}
 sub PrintHashOfArray
 {
 	my %hash = @_;

@@ -2,7 +2,7 @@ Package: x.ent
 Type: Package
 Title: eXtraction of ENTity
 Description: Provides a tool for extracting information (entities and relations between them) in text datasets. It also emphasizes the results exploration with graphical displays. It is a rule-based system and works with hand-made dictionaries and local grammars defined by users. X.ent uses parsing with Perl functions and JavaScript to define user preferences through a browser and R to display and support analysis of the results extracted. Local grammars are defined and compiled with the tool Unitex, a tool developed by University Paris Est that supports multiple languages. See ?xconfig for an introduction.
-Version: 1.1.4
+Version: 1.1.5
 Date: 2015-03-03
 Authors@R: c(person("Nicolas", "Turenne", role = "aut", email = "nturenne.inra@yahoo.fr"),
     person("Tien T.","Phan", role = c("aut","cre"),  email = "phantien84@gmail.com"),

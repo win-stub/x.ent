@@ -58,6 +58,205 @@ sub ApplyRuleDate
 	
 	return $line;
 }
+#using for validation of date
+sub GetOneDate
+{
+	my %months = ("01" => "01","1" => "01","janvier" => "01","jan"=>"01",
+	"02" => "02","2" => "02","février"=>"02","fevrier"=>"02","fév"=>"02","fev"=>"02",
+	"03" => "03","3" => "03","mars"=>"03","mar"=>"03",
+	"04" => "04","4" => "04","avril"=>"04","avr"=>"04",
+	"05" => "05","5" => "05","mai"=>"05",
+	"06" => "06","6" => "06","juin"=>"06","jun"=>"06",
+	"07" => "07","7" => "07","juillet"=>"07","jul"=>"07","juil"=>"07",
+	"08" => "08","8"=>"08","août" => "08","aout" => "08","aoû"=>"08","aou"=>"08","aoÛt"=>"08",
+	"09" => "09","9"=>"09","septembre" => "09","sep"=>"09",
+	"10" => "10","octobre" => "10","oct"=>"10",
+	"11" => "11","novembre" => "11","nov"=>"11",
+	"12" => "12","décembre" => "12","déc"=>"12","decembre" => "12","dec"=>"12"); 
+	my ($line) = @_;
+	my $year = "1900";
+	my $month = "01";
+	my $day = "01";
+	#get current date for comparing date of extraction
+	my ($sec,$min,$hour,$mday_sys,$mon_sys,$year_sys,$wday,$yday,$isdst) =  localtime(time);
+	$year_sys %= 100; #example: 2015 => $year_sys = 115
+	#if date is YYYY-MM-DD
+	if(($line =~ /(\d{4})[\_\-\/\.\s](0[1-9]|1[012]|janvier|jan|février|fevrier|fev|mars|mar|avril|avr|mai|juin|jun|juillet|jul|juil|août|aoû|septembre|sep|octobre|oct|novembre|nov|décembre|déc)[\_\-\/\.\s](\d{1,2})/gi) || ($line =~ /(\d{4})(0[1-9]|1[012]|janvier|jan|février|fevrier|fev|mars|mar|avril|avr|mai|juin|jun|juillet|juil|jul|août|aoû|septembre|sep|octobre|oct|novembre|nov|décembre|déc)(\d{1,2})/gi))
+	{ 
+		if(length($3) eq 1)
+		{
+			$day = "0".$3;
+		}
+		else
+		{
+			$day = $3;
+		}
+		$year = $1;
+		if(($year >= 1946) && ($year <= $year_sys+2000))
+		{
+			#print "test1";
+			$month = $months{lc($2)};
+			($year,$month,$day) = Modules::Utils::CheckDate($year,$month,$day);
+			return ($year."-".$month."-".$day,$day."-".$month."-".$year);	
+		}
+	}
+	# date  05-05-2011 or 05/05/2011 or 05/mai/2011, ect
+	if(($line =~ /(\d{1,2})[\_\-\/\.\s](0[1-9]|1[012]|janvier|jan|février|fevrier|fev|mars|mar|avril|avr|mai|juin|jun|juillet|jul|juil|août|aoû|septembre|sep|octobre|oct|novembre|nov|décembre|déc)[\_\-\/\.\s](\d{4})/gi) || ($line =~ /(\d{1,2})(janvier|jan|février|fevrier|fev|mars|mar|avril|avr|mai|juin|jun|juillet|jul|juil|août|aoû|septembre|sep|octobre|oct|novembre|nov|décembre|déc)(\d{4})/gi))
+	{
+		#check day, default DDMMYY(YY)
+		$day = $1;
+		$year = $3;
+		
+		if(length($day) eq 1)
+		{
+			$day = "0".$day;
+		}
+		
+		#YYYY-MM-DD
+		if(($year >= 1946) && ($year <= $year_sys+2000))
+		{
+			$month = $months{lc($2)};
+			($year,$month,$day) = Modules::Utils::CheckDate($year,$month,$day);
+			#print "test2";
+			return ($year."-".$month."-".$day,$day.".".$month.".".$year);		
+		}
+	}
+	# date  05-05-11 or 05/05/11 or 05/mai/11, ect
+	if(($line =~ /(\d{1,2})[\_\-\/\.\s](0[1-9]|1[012]|janvier|jan|février|fevrier|fev|mars|mar|avril|avr|mai|juin|jun|juillet|jul|juil|août|aoû|septembre|sep|octobre|oct|novembre|nov|décembre|déc)[\_\-\/\.\s](\d{2,4})/gi) || ($line =~ /(\d{1,2})(janvier|jan|février|fevrier|fev|mars|mar|avril|avr|mai|juin|jun|juillet|jul|juil|août|aoû|septembre|sep|octobre|oct|novembre|nov|décembre|déc)(\d{2,4})/gi))
+	{
+		#check day, default DDMMYY perhaps YYMMDD
+		$day = $1;
+		$year = $3;
+		if(($day < 1) || ($day > 31))
+		{
+			$day = $3;#if format is YYMMDD
+			$year = $1;
+		}
+		if(length($day) eq 1)
+		{
+			$day = "0".$day;
+		}
+		#check year
+		if(length($year) eq 2)
+		{
+			#case: year is 09, 10,etc => 2009,2010, versus 45, 46 => 1945, 1946
+			if($year < $year_sys)
+			{
+				$year = 2000 + $year;
+			}
+			else
+			{
+				$year = 1900 + $year;
+			}
+		}
+		#YYYY-MM-DD
+		if(($year >= 1946) && ($year <= $year_sys+2000))
+		{
+			$month = $months{lc($2)};
+			($year,$month,$day) = Modules::Utils::CheckDate($year,$month,$day);
+			return ($year."-".$month."-".$day,$day.".".$month.".".$year);	
+		}
+	}
+	#date precise 05-2011 or 05/2011 or mai/2011
+	if($line =~ /(0[1-9]|1[012]|janvier|jan|février|fevrier|fev|mars|mar|MARS|avril|avr|mai|juin|jun|juillet|jul|juil|août|AOÛT|aoû|septembre|sep|octobre|oct|novembre|nov|décembre|déc)[\-\/\.\s](\d{2,4})/gi)
+	{
+		#check year
+		if(length($2) eq 2)
+		{
+			#case: year is 09, 10,etc => 2009,2010, versus 45, 46 => 1945, 1946
+			if($2 < $year_sys)
+			{
+				$year = 2000 + $2;
+			}
+			else
+			{
+				$year = 1900 + $2;
+			}
+		}
+		else
+		{
+			$year = $2;
+		}
+		if(($year >= 1946) && ($year <= $year_sys+2000))
+		{
+			$month = $months{lc($1)};
+			($year,$month,$day) = Modules::Utils::CheckDate($year,$month,$day);
+			#print "test4";
+			return ($year."-".$month."-".$day,$day.".".$month.".".$year);			
+		}
+	}
+	#only year
+	if($line =~ /[\_\-\/\.\s](\d{4})[\_\-\/\.\s]/gi)
+	{
+		$year = $1;
+		if(($year >= 1946) && ($year <= $year_sys+2000))
+		{
+			#print "test5";
+			($year,$month,$day) = Modules::Utils::CheckDate($year,$month,$day);
+			return ($year."-".$month."-".$day,$day.".".$month.".".$year);	
+		}
+	}
+	if(($year < 1900) || ($year > $year_sys+2000))
+	{
+		$year = 1900;
+	}
+	#print "test6";
+	return ($year."-".$month."-".$day,$day.".".$month.".".$year);
+}
+#using for validation region
+sub GetRegionOne
+{
+	my ($data,%dico) = @_;
+	my @arr_keys = (keys %dico);
+	my @arr = ();
+	my @arr_return = ();
+	my $result = "";
+	my @sorted_keys = sort { length $b <=> length $a } @arr_keys;#purpose: words longer will find first 
+	foreach(@sorted_keys)
+	{
+		my @lstSyn = @{$dico{$_}};
+		my @sorted = sort { length $b <=> length $a } @lstSyn;
+		#my $lab;
+		my $lab = $sorted[0];
+		#construire le règle compris le synonymes 
+		for(my $i=1; $i<@sorted; $i++)
+		{
+			$lab = $lab."|".$sorted[$i];
+		}
+		if( $data =~ /['\\\/\[\]\,.?;:!—\-\(\)\" \t]($lab)[\\\[\]\,.?;:!\(\)\"_\" \t]/i) {
+			push @arr,$1;
+			push @arr_return,$_;
+		}
+	}
+	#get first item
+	if(scalar(@arr) >= 1)
+	{
+		
+		if(scalar(@arr) eq 1)
+		{
+			$result = $arr_return[0];
+		}
+		else
+		{
+			#chosir la région prémiere dans le corpus
+			my $pos;
+			my $temp = 99999999;
+			for(my $i=0; $i<@arr; $i++)
+			{
+				$pos = index($data,$arr[$i]);
+				if($pos > 0)
+				{
+					if($pos < $temp)
+					{
+						$temp = $pos;
+						$result = $arr_return[$i];
+					}
+				}	
+			}	
+		}
+	}
+	return $result;
+}
 #Appliquer les règles pour maladies, pathogènes
 sub ApplyRuleForSmallDico
 {

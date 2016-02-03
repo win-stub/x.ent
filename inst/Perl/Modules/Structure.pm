@@ -165,9 +165,9 @@ sub AvoidPhase
 }
 sub CheckConfict
 {
-  my $result = "";
-	eval
-	{
+	my $result = "";
+	#eval
+	#{
 		#extraction tous les donnés dans les balises
 		#et appliquer un algorithme pour trouver un mots est dans un autre mots
 		my ($curr_data,$old_data) = @_;
@@ -255,10 +255,10 @@ sub CheckConfict
 			#print "\n";
 		}
 		$result  =~ s/\s\s+/ /gm;	
-	};
-	if (my $e = $@) {
-    	print("Something went wrong: $e\n");
-	}
+	#};
+	#if (my $e = $@) {
+    #	print("Something went wrong: $e\n");
+	#}
 	
 	return $result;
 }
@@ -361,7 +361,7 @@ sub Direction
 				}
 			}
 			my $data = substr $source, $pos_left, $cut_length;
-			#print $data."\n";
+			print $data."\n";
 			push @result,$data;
 			$pos++;
 		}

@@ -604,835 +604,835 @@ BSV_Grandes_Cultures_Oleagineux_n_o22_20110412_JC_sans_reglementaire_cle8bba7c:p
 BSV_Grandes_Cultures_Oleagineux_n_o22_20110412_JC_sans_reglementaire_cle8bba7c:p:s:$$:colza:A2:1
 BSV_Grandes_Cultures_Oleagineux_n_o22_20110412_JC_sans_reglementaire_cle8bba7c:p:s:$$:colza:émergence des cotylédons:1
 
-AvisGC_701:r:$:Champagne-Ardenne:
-AvisGC_701:nu:$:701:
-AvisGC_701:d:$:04.10.2006:
-AvisGC_701:f:$:pyréthrinoïde:triazamate:aztec:doctus:deltaméthrine:
-AvisGC_701:p:$:colza:céréales:blé:orge d'hiver:orge:maïs:
-AvisGC_701:v:$:Juniville:Bergnicourt:Suippes:Villemoiron-en-Othe:Onjon:Châteauvillain:Lavannes:Pévy:Ognes:Le Thour:Marne:Aube:Haute-Marne:Tardenois:Brie:Sud Haute-Marne:
-AvisGC_701:s:$:1-2 feuilles:4 à 5 feuilles:6-8 feuilles:levée:
-AvisGC_701:b:$:zabre des céréales:cicadelle:cicadelle:puceron du merisier à grappes:noctuelle:teigne des crucifères:tenthrède de la rave:aleurode:mouche:grosse altise du colza:baris:charançon de la tige du chou:charançon du bourgeon terminal:puceron:teigne:Coléoptères:cicadelle:baris:grosse altise du colza:charançon:limace des jardins:insectes défoliateurs:coléoptères:chenille:mouche mineuse:cicadelle des céréales:
-AvisGC_701:n:$:plus de 10 jours de présence de pucerons sur les parcelles:10% de pieds porteurs:100% de plantes infestées:déjà bien visibles:piqûres sur les feuilles peuvent être notables:50% des parcelles du réseau:20% de pieds porteurs:dépassant 80% de pieds touchés:
-AvisGC_701:m:$:wheat dwarf virus:phoma:jaunisse nanisante de l'orge:
-AvisGC_701:z:$:ne pas les confondre avec:confondus avec le:
-AvisGC_701:p:b:$$:colza:puceron:1
-AvisGC_701:p:b:$$:colza:teigne:1
-AvisGC_701:p:b:$$:colza:Coléoptères:1
-AvisGC_701:p:b:$$:colza:baris:1
-AvisGC_701:p:b:$$:colza:grosse altise du colza:1
-AvisGC_701:p:b:$$:colza:charançon:1
-AvisGC_701:p:b:$$:céréales:puceron:1
-AvisGC_701:p:b:$$:céréales:cicadelle:1
-AvisGC_701:p:s:$$:colza:4 à 5 feuilles:1
-AvisGC_701:p:s:$$:colza:6-8 feuilles:1
-AvisGC_701:p:s:$$:colza:levée:1
-AvisGC_701:p:b:$$:colza:limace des jardins:1
-AvisGC_701:p:b:$$:colza:puceron:1
-AvisGC_701:p:b:n:$$:colza:puceron:50% des parcelles du réseau:1
-AvisGC_701:p:b:n:$$:colza:puceron:20% de pieds porteurs:1
-AvisGC_701:p:b:n:$$:colza:puceron:dépassant 80% de pieds touchés:1
-AvisGC_701:p:b:$$:colza:insectes défoliateurs:1
-AvisGC_701:p:b:$$:colza:coléoptères:1
-AvisGC_701:p:b:$$:colza:baris:1
-AvisGC_701:p:b:$$:colza:charançon du bourgeon terminal:1
-AvisGC_701:p:b:$$:colza:charançon de la tige du chou:1
-AvisGC_701:p:b:$$:colza:grosse altise du colza:1
-AvisGC_701:p:b:$$:colza:mouche:1
-AvisGC_701:p:b:n:$$:colza:mouche:déjà bien visibles:1
-AvisGC_701:p:b:$$:colza:aleurode:1
-AvisGC_701:p:b:n:$$:colza:grosse altise du colza:piqûres sur les feuilles peuvent être notables:1
-AvisGC_701:p:b:$$:colza:noctuelle:1
-AvisGC_701:p:b:$$:colza:teigne des crucifères:1
-AvisGC_701:p:b:$$:colza:tenthrède de la rave:1
-AvisGC_701:p:m:$$:colza:wheat dwarf virus:1
-AvisGC_701:p:m:$$:colza:phoma:1
-AvisGC_701:p:s:$$:céréales:1-2 feuilles:1
-AvisGC_701:p:s:$$:blé:1-2 feuilles:1
-AvisGC_701:p:s:$$:orge d'hiver:1-2 feuilles:1
-AvisGC_701:p:b:$$:colza:tenthrède de la rave:1
-AvisGC_701:p:m:$$:céréales:jaunisse nanisante de l'orge:1
-AvisGC_701:p:b:$$:céréales:limace des jardins:1
-AvisGC_701:p:b:$$:céréales:puceron du merisier à grappes:1
-AvisGC_701:p:b:$$:orge:puceron:1
-AvisGC_701:p:b:n:$$:céréales:puceron:100% de plantes infestées:1
-AvisGC_701:p:b:n:$$:céréales:puceron:10% de pieds porteurs:1
-AvisGC_701:p:b:n:$$:céréales:puceron:10 jours de présence de pucerons sur les parcelles:1
-AvisGC_701:p:b:$$:céréales:zabre des céréales:1
-AvisGC_701:p:b:$$:céréales:cicadelle:1
-AvisGC_701:p:b:$$:céréales:cicadelle:1
+AvisGC 701:r:$:Champagne-Ardenne:
+AvisGC 701:nu:$:701:
+AvisGC 701:d:$:04.10.2006:
+AvisGC 701:f:$:pyréthrinoïde:triazamate:aztec:doctus:deltaméthrine:
+AvisGC 701:p:$:colza:céréales:blé:orge d'hiver:orge:maïs:
+AvisGC 701:v:$:Juniville:Bergnicourt:Suippes:Villemoiron-en-Othe:Onjon:Châteauvillain:Lavannes:Pévy:Ognes:Le Thour:Marne:Aube:Haute-Marne:Tardenois:Brie:Sud Haute-Marne:
+AvisGC 701:s:$:1-2 feuilles:4 à 5 feuilles:6-8 feuilles:levée:
+AvisGC 701:b:$:zabre des céréales:cicadelle:cicadelle:puceron du merisier à grappes:noctuelle:teigne des crucifères:tenthrède de la rave:aleurode:mouche:grosse altise du colza:baris:charançon de la tige du chou:charançon du bourgeon terminal:puceron:teigne:Coléoptères:cicadelle:baris:grosse altise du colza:charançon:limace des jardins:insectes défoliateurs:coléoptères:chenille:mouche mineuse:cicadelle des céréales:
+AvisGC 701:n:$:plus de 10 jours de présence de pucerons sur les parcelles:10% de pieds porteurs:100% de plantes infestées:déjà bien visibles:piqûres sur les feuilles peuvent être notables:50% des parcelles du réseau:20% de pieds porteurs:dépassant 80% de pieds touchés:
+AvisGC 701:m:$:wheat dwarf virus:phoma:jaunisse nanisante de l'orge:
+AvisGC 701:z:$:ne pas les confondre avec:confondus avec le:
+AvisGC 701:p:b:$$:colza:puceron:1
+AvisGC 701:p:b:$$:colza:teigne:1
+AvisGC 701:p:b:$$:colza:Coléoptères:1
+AvisGC 701:p:b:$$:colza:baris:1
+AvisGC 701:p:b:$$:colza:grosse altise du colza:1
+AvisGC 701:p:b:$$:colza:charançon:1
+AvisGC 701:p:b:$$:céréales:puceron:1
+AvisGC 701:p:b:$$:céréales:cicadelle:1
+AvisGC 701:p:s:$$:colza:4 à 5 feuilles:1
+AvisGC 701:p:s:$$:colza:6-8 feuilles:1
+AvisGC 701:p:s:$$:colza:levée:1
+AvisGC 701:p:b:$$:colza:limace des jardins:1
+AvisGC 701:p:b:$$:colza:puceron:1
+AvisGC 701:p:b:n:$$:colza:puceron:50% des parcelles du réseau:1
+AvisGC 701:p:b:n:$$:colza:puceron:20% de pieds porteurs:1
+AvisGC 701:p:b:n:$$:colza:puceron:dépassant 80% de pieds touchés:1
+AvisGC 701:p:b:$$:colza:insectes défoliateurs:1
+AvisGC 701:p:b:$$:colza:coléoptères:1
+AvisGC 701:p:b:$$:colza:baris:1
+AvisGC 701:p:b:$$:colza:charançon du bourgeon terminal:1
+AvisGC 701:p:b:$$:colza:charançon de la tige du chou:1
+AvisGC 701:p:b:$$:colza:grosse altise du colza:1
+AvisGC 701:p:b:$$:colza:mouche:1
+AvisGC 701:p:b:n:$$:colza:mouche:déjà bien visibles:1
+AvisGC 701:p:b:$$:colza:aleurode:1
+AvisGC 701:p:b:n:$$:colza:grosse altise du colza:piqûres sur les feuilles peuvent être notables:1
+AvisGC 701:p:b:$$:colza:noctuelle:1
+AvisGC 701:p:b:$$:colza:teigne des crucifères:1
+AvisGC 701:p:b:$$:colza:tenthrède de la rave:1
+AvisGC 701:p:m:$$:colza:wheat dwarf virus:1
+AvisGC 701:p:m:$$:colza:phoma:1
+AvisGC 701:p:s:$$:céréales:1-2 feuilles:1
+AvisGC 701:p:s:$$:blé:1-2 feuilles:1
+AvisGC 701:p:s:$$:orge d'hiver:1-2 feuilles:1
+AvisGC 701:p:b:$$:colza:tenthrède de la rave:1
+AvisGC 701:p:m:$$:céréales:jaunisse nanisante de l'orge:1
+AvisGC 701:p:b:$$:céréales:limace des jardins:1
+AvisGC 701:p:b:$$:céréales:puceron du merisier à grappes:1
+AvisGC 701:p:b:$$:orge:puceron:1
+AvisGC 701:p:b:n:$$:céréales:puceron:100% de plantes infestées:1
+AvisGC 701:p:b:n:$$:céréales:puceron:10% de pieds porteurs:1
+AvisGC 701:p:b:n:$$:céréales:puceron:10 jours de présence de pucerons sur les parcelles:1
+AvisGC 701:p:b:$$:céréales:zabre des céréales:1
+AvisGC 701:p:b:$$:céréales:cicadelle:1
+AvisGC 701:p:b:$$:céréales:cicadelle:1
 
-GC_Centre_15.04.04:r:$:Centre:
-GC_Centre_15.04.04:nu:$:11:
-GC_Centre_15.04.04:d:$:15.04.2004:
-GC_Centre_15.04.04:f:$:carbendazime:triazole:
-GC_Centre_15.04.04:p:$:colza:orge d'hiver:blé:pois protéagineux:féverole:orge de printemps:betterave:tournesol:maïs:
-GC_Centre_15.04.04:v:$:Saint-Martin des Bois:Savigny/Braye:Chambourg/Indre:Chaveignes:Murs:Saint-Amand-Montrond:Ste Solange:Prunay-Cassereau:Montoire-sur-le-Loir:Savigny/Braye:Treilles:
-GC_Centre_15.04.04:s:$:tallage:levée:Semis en cours:2-3 feuilles:F3:f4:1 noeud:2 noeuds:1-2 noeuds:g1:chute des 1ers pétales:f2:f2:f1:début floraison:E:boutons séparés:
-GC_Centre_15.04.04:b:$:méligèthe:charançon des siliques de colza:puceron cendré:sitone du pois:thrips:
-GC_Centre_15.04.04:n:$:faible activité:stade sensible est dépassé:15-20% de plantes atteintes:ne sont plus nuisibles:2 colonies/m²:
-GC_Centre_15.04.04:m:$:piétin-verse:septoriose:sclérotiniose:cylindrosporiose des crucifères:oïdium:helminthosporiose:rhynchosporiose sur dactyle:
-GC_Centre_15.04.04:p:s:$$:orge d'hiver:1-2 noeuds:1
-GC_Centre_15.04.04:p:s:$$:orge d'hiver:F3:1
-GC_Centre_15.04.04:p:s:$$:colza:g1:1
-GC_Centre_15.04.04:p:s:$$:colza:début floraison:1
-GC_Centre_15.04.04:p:s:$$:colza:f1:1
-GC_Centre_15.04.04:p:s:$$:colza:f2:1
-GC_Centre_15.04.04:p:s:$$:colza:f2:1
-GC_Centre_15.04.04:p:s:$$:colza:chute des premiers pétales:1
-GC_Centre_15.04.04:p:s:$$:colza:boutons séparés:1
-GC_Centre_15.04.04:p:s:$$:colza:E:1
-GC_Centre_15.04.04:p:m:$$:colza:sclérotiniose:1
-GC_Centre_15.04.04:p:m:$$:colza:septoriose:1
-GC_Centre_15.04.04:p:m:$$:colza:cylindrosporiose des crucifères:1
-GC_Centre_15.04.04:p:b:$$:colza:méligèthe:1
-GC_Centre_15.04.04:p:b:$$:colza:charançon des siliques de colza:1
-GC_Centre_15.04.04:p:b:$$:colza:puceron cendré:1
-GC_Centre_15.04.04:p:b:n:$$:colza:méligèthe:ne sont plus nuisibles:1
-GC_Centre_15.04.04:p:b:n:$$:colza:puceron cendré:ne sont plus nuisibles:1
-GC_Centre_15.04.04:p:m:$$:blé:piétin-verse:1
-GC_Centre_15.04.04:p:m:$$:blé:oïdium:1
-GC_Centre_15.04.04:p:m:$$:blé:septoriose:1
-GC_Centre_15.04.04:p:s:$$:blé:1 noeud:1
-GC_Centre_15.04.04:p:s:$$:blé:2 noeuds:1
-GC_Centre_15.04.04:p:s:$$:blé:F3:1
-GC_Centre_15.04.04:p:s:$$:blé:f4:1
-GC_Centre_15.04.04:p:m:n:$$:blé:piétin-verse:15-20% de plantes atteintes:1
-GC_Centre_15.04.04:p:m:$$:orge d'hiver:oïdium:1
-GC_Centre_15.04.04:p:m:$$:orge d'hiver:helminthosporiose:1
-GC_Centre_15.04.04:p:m:$$:orge d'hiver:rhynchosporiose sur dactyle:1
-GC_Centre_15.04.04:p:s:$$:pois protéagineux:2-3 feuilles:1
-GC_Centre_15.04.04:p:b:$$:pois protéagineux:thrips:1
-GC_Centre_15.04.04:p:b:n:$$:pois protéagineux:thrips:stade sensible est dépassé:1
-GC_Centre_15.04.04:p:b:$$:pois protéagineux:sitone du pois:1
-GC_Centre_15.04.04:p:b:n:$$:pois protéagineux:sitone du pois:faible activité:1
-GC_Centre_15.04.04:p:b:$$:féverole:sitone du pois:1
-GC_Centre_15.04.04:p:b:n:$$:féverole:sitone du pois:faible activité:1
-GC_Centre_15.04.04:p:s:$$:orge de printemps:tallage:1
-GC_Centre_15.04.04:p:s:$$:betterave:levée:1
-GC_Centre_15.04.04:p:s:$$:tournesol:Semis en cours:1
-GC_Centre_15.04.04:p:s:$$:maïs:Semis en cours:1
+GC Centre 15.04.04:r:$:Centre:
+GC Centre 15.04.04:nu:$:11:
+GC Centre 15.04.04:d:$:15.04.2004:
+GC Centre 15.04.04:f:$:carbendazime:triazole:
+GC Centre 15.04.04:p:$:colza:orge d'hiver:blé:pois protéagineux:féverole:orge de printemps:betterave:tournesol:maïs:
+GC Centre 15.04.04:v:$:Saint-Martin des Bois:Savigny/Braye:Chambourg/Indre:Chaveignes:Murs:Saint-Amand-Montrond:Ste Solange:Prunay-Cassereau:Montoire-sur-le-Loir:Savigny/Braye:Treilles:
+GC Centre 15.04.04:s:$:tallage:levée:Semis en cours:2-3 feuilles:F3:f4:1 noeud:2 noeuds:1-2 noeuds:g1:chute des 1ers pétales:f2:f2:f1:début floraison:E:boutons séparés:
+GC Centre 15.04.04:b:$:méligèthe:charançon des siliques de colza:puceron cendré:sitone du pois:thrips:
+GC Centre 15.04.04:n:$:faible activité:stade sensible est dépassé:15-20% de plantes atteintes:ne sont plus nuisibles:2 colonies/m²:
+GC Centre 15.04.04:m:$:piétin-verse:septoriose:sclérotiniose:cylindrosporiose des crucifères:oïdium:helminthosporiose:rhynchosporiose sur dactyle:
+GC Centre 15.04.04:p:s:$$:orge d'hiver:1-2 noeuds:1
+GC Centre 15.04.04:p:s:$$:orge d'hiver:F3:1
+GC Centre 15.04.04:p:s:$$:colza:g1:1
+GC Centre 15.04.04:p:s:$$:colza:début floraison:1
+GC Centre 15.04.04:p:s:$$:colza:f1:1
+GC Centre 15.04.04:p:s:$$:colza:f2:1
+GC Centre 15.04.04:p:s:$$:colza:f2:1
+GC Centre 15.04.04:p:s:$$:colza:chute des premiers pétales:1
+GC Centre 15.04.04:p:s:$$:colza:boutons séparés:1
+GC Centre 15.04.04:p:s:$$:colza:E:1
+GC Centre 15.04.04:p:m:$$:colza:sclérotiniose:1
+GC Centre 15.04.04:p:m:$$:colza:septoriose:1
+GC Centre 15.04.04:p:m:$$:colza:cylindrosporiose des crucifères:1
+GC Centre 15.04.04:p:b:$$:colza:méligèthe:1
+GC Centre 15.04.04:p:b:$$:colza:charançon des siliques de colza:1
+GC Centre 15.04.04:p:b:$$:colza:puceron cendré:1
+GC Centre 15.04.04:p:b:n:$$:colza:méligèthe:ne sont plus nuisibles:1
+GC Centre 15.04.04:p:b:n:$$:colza:puceron cendré:ne sont plus nuisibles:1
+GC Centre 15.04.04:p:m:$$:blé:piétin-verse:1
+GC Centre 15.04.04:p:m:$$:blé:oïdium:1
+GC Centre 15.04.04:p:m:$$:blé:septoriose:1
+GC Centre 15.04.04:p:s:$$:blé:1 noeud:1
+GC Centre 15.04.04:p:s:$$:blé:2 noeuds:1
+GC Centre 15.04.04:p:s:$$:blé:F3:1
+GC Centre 15.04.04:p:s:$$:blé:f4:1
+GC Centre 15.04.04:p:m:n:$$:blé:piétin-verse:15-20% de plantes atteintes:1
+GC Centre 15.04.04:p:m:$$:orge d'hiver:oïdium:1
+GC Centre 15.04.04:p:m:$$:orge d'hiver:helminthosporiose:1
+GC Centre 15.04.04:p:m:$$:orge d'hiver:rhynchosporiose sur dactyle:1
+GC Centre 15.04.04:p:s:$$:pois protéagineux:2-3 feuilles:1
+GC Centre 15.04.04:p:b:$$:pois protéagineux:thrips:1
+GC Centre 15.04.04:p:b:n:$$:pois protéagineux:thrips:stade sensible est dépassé:1
+GC Centre 15.04.04:p:b:$$:pois protéagineux:sitone du pois:1
+GC Centre 15.04.04:p:b:n:$$:pois protéagineux:sitone du pois:faible activité:1
+GC Centre 15.04.04:p:b:$$:féverole:sitone du pois:1
+GC Centre 15.04.04:p:b:n:$$:féverole:sitone du pois:faible activité:1
+GC Centre 15.04.04:p:s:$$:orge de printemps:tallage:1
+GC Centre 15.04.04:p:s:$$:betterave:levée:1
+GC Centre 15.04.04:p:s:$$:tournesol:Semis en cours:1
+GC Centre 15.04.04:p:s:$$:maïs:Semis en cours:1
 
-AvisGC_608:r:$:Champagne-Ardenne:
-AvisGC_608:nu:$:608:
-AvisGC_608:d:$:15.01.2004:
-AvisGC_608:p:$:maïs:cotonnier:colza:
-AvisGC_608:v:$:Le Thour:Rethel:Ardennes:Aube:Sud-Ouest de l'Aube:secteur des lacs dans l'Aube:
-AvisGC_608:s:$:tête noire:papillon:nymphoses:larvaire:larves:L5:
-AvisGC_608:b:$:pyrale du maïs:cécidomyie du pois:cicadelle:noctuelle de la tomate:pyrale:
-AvisGC_608:n:$:accroître la pression larvaire et le risque:1,6 larves/pieds:
-AvisGC_608:m:$:wheat dwarf virus:
-AvisGC_608:p:b:$$:maïs:pyrale du maïs:1
-AvisGC_608:p:b:$$:maïs:cécidomyie du pois:1
-AvisGC_608:p:b:$$:maïs:cicadelle:1
-AvisGC_608:p:m:$$:maïs:wheat dwarf virus:1
-AvisGC_608:p:b:$$:cotonnier:noctuelle de la tomate:1
-AvisGC_608:p:b:$$:maïs:noctuelle de la tomate:1
-AvisGC_608:p:b:n:$$:maïs:pyrale du maïs:accroître la pression larvaire et le risque:1
-AvisGC_608:p:b:n:$$:maïs:pyrale du maïs:1,6 larves/pieds:
+AvisGC 608:r:$:Champagne-Ardenne:
+AvisGC 608:nu:$:608:
+AvisGC 608:d:$:15.01.2004:
+AvisGC 608:p:$:maïs:cotonnier:colza:
+AvisGC 608:v:$:Le Thour:Rethel:Ardennes:Aube:Sud-Ouest de l'Aube:secteur des lacs dans l'Aube:
+AvisGC 608:s:$:tête noire:papillon:nymphoses:larvaire:larves:L5:
+AvisGC 608:b:$:pyrale du maïs:cécidomyie du pois:cicadelle:noctuelle de la tomate:pyrale:
+AvisGC 608:n:$:accroître la pression larvaire et le risque:1,6 larves/pieds:
+AvisGC 608:m:$:wheat dwarf virus:
+AvisGC 608:p:b:$$:maïs:pyrale du maïs:1
+AvisGC 608:p:b:$$:maïs:cécidomyie du pois:1
+AvisGC 608:p:b:$$:maïs:cicadelle:1
+AvisGC 608:p:m:$$:maïs:wheat dwarf virus:1
+AvisGC 608:p:b:$$:cotonnier:noctuelle de la tomate:1
+AvisGC 608:p:b:$$:maïs:noctuelle de la tomate:1
+AvisGC 608:p:b:n:$$:maïs:pyrale du maïs:accroître la pression larvaire et le risque:1
+AvisGC 608:p:b:n:$$:maïs:pyrale du maïs:1,6 larves/pieds:
 
-AvisGC_612:r:$:Champagne-Ardenne:
-AvisGC_612:nu:$:612:
-AvisGC_612:d:$:25.02.2004:
-AvisGC_612:f:$:fipronil:gaucho:nikeyl:nirvana:Challenge:centium 36 cs:imidacloprid:confidor:polyaxe:férial:régent:régent:régent:schuss:métis:texas:Zoom:
-AvisGC_612:p:$:colza:féverole:pois protéagineux:
-AvisGC_612:v:$:Ville-sur-Arce:Arrentières:Trainel:Villers-aux-Noeuds:Villemaur-sur-Vanne:Aube:Ardennes:
-AvisGC_612:b:$:charançon de la tige du colza:puceron cendré:thrips:puceron vert:puceron vert du pêcher:méligèthe du colza:charançon:
-AvisGC_612:n:$:nuisibilité de ces ravageurs n'est pas connu:
-AvisGC_612:p:b:$$:colza:charançon de la tige du colza:1
-AvisGC_612:p:b:$$:colza:puceron cendré:1
-AvisGC_612:p:b:$$:colza:thrips:1
-AvisGC_612:p:b:$$:colza:puceron vert:1
-AvisGC_612:p:b:n:$$:colza:charançon de la tige du colza:nuisibilité de ces ravageurs n'est pas connu:1
-AvisGC_612:p:b:n:$$:colza:puceron cendré:nuisibilité de ces ravageurs n'est pas connu:1
-AvisGC_612:p:b:n:$$:colza:thrips:nuisibilité de ces ravageurs n'est pas connu:1
-AvisGC_612:p:b:n:$$:colza:puceron vert:nuisibilité de ces ravageurs n'est pas connu:1
+AvisGC 612:r:$:Champagne-Ardenne:
+AvisGC 612:nu:$:612:
+AvisGC 612:d:$:25.02.2004:
+AvisGC 612:f:$:fipronil:gaucho:nikeyl:nirvana:Challenge:centium 36 cs:imidacloprid:confidor:polyaxe:férial:régent:régent:régent:schuss:métis:texas:Zoom:
+AvisGC 612:p:$:colza:féverole:pois protéagineux:
+AvisGC 612:v:$:Ville-sur-Arce:Arrentières:Trainel:Villers-aux-Noeuds:Villemaur-sur-Vanne:Aube:Ardennes:
+AvisGC 612:b:$:charançon de la tige du colza:puceron cendré:thrips:puceron vert:puceron vert du pêcher:méligèthe du colza:charançon:
+AvisGC 612:n:$:nuisibilité de ces ravageurs n'est pas connu:
+AvisGC 612:p:b:$$:colza:charançon de la tige du colza:1
+AvisGC 612:p:b:$$:colza:puceron cendré:1
+AvisGC 612:p:b:$$:colza:thrips:1
+AvisGC 612:p:b:$$:colza:puceron vert:1
+AvisGC 612:p:b:n:$$:colza:charançon de la tige du colza:nuisibilité de ces ravageurs n'est pas connu:1
+AvisGC 612:p:b:n:$$:colza:puceron cendré:nuisibilité de ces ravageurs n'est pas connu:1
+AvisGC 612:p:b:n:$$:colza:thrips:nuisibilité de ces ravageurs n'est pas connu:1
+AvisGC 612:p:b:n:$$:colza:puceron vert:nuisibilité de ces ravageurs n'est pas connu:1
 
-AvisGC_617:r:$:Champagne-Ardenne:
-AvisGC_617:nu:$:617:
-AvisGC_617:d:$:08.04.2004:
-AvisGC_617:f:$:triazoles:carbendazime:mavrik flo:malathion:strobilurine:
-AvisGC_617:p:$:colza:orge d'hiver:blé:orge d'hiver:proteagineux:arbustes:
-AvisGC_617:v:$:Monthois:Issé:Pavillon Ste Julie:Barby:Arrentières:
-AvisGC_617:b:$:méligèthe:hyménoptère parasitoïde:adventice:
-AvisGC_617:a:$:abeilles:
-AvisGC_617:m:$:Maladies foliaires:piétin-verse:helminthosporiose:anthracnose sur pois:cylindrosporiose des crucifères:sclérotiniose:cylindrosporiose des crucifères:rouille naine de l'orge:rhynchosporiose sur dactyle:
-AvisGC_617:n:$:plus de 20 méligèthes par pied:plus de 7-8 méligèthes/plantes:fortement présente:30% de surface foliaire attaqué:50% des F4 avec symptômes:
-AvisGC_617:s:$:D2:inflorescence principale dégagée:premières fleurs:1 à 2 noeuds:floraison:E:F5:f4:F6:1 noeud:F3:vraie pointante:
-AvisGC_617:p:s:$$:colza:D2:1
-AvisGC_617:p:s:$$:colza:inflorescence principale dégagée:1
-AvisGC_617:p:s:$$:colza:premières fleurs:1
-AvisGC_617:p:s:$$:colza:1 à 2 noeuds:1
-AvisGC_617:p:s:$$:colza:floraison:1
-AvisGC_617:p:s:$$:colza:E:1
-AvisGC_617:p:m:$$:blé:piétin-verse:1
-AvisGC_617:p:m:$$:blé:Maladies foliaires:1
-AvisGC_617:p:m:$$:orge d'hiver:helminthosporiose:1
-AvisGC_617:p:m:$$:proteagineux:anthracnose sur pois:1
-AvisGC_617:p:b:$$:colza:méligèthe:1
-AvisGC_617:p:m:$$:colza:cylindrosporiose des crucifères:1
-AvisGC_617:p:m:$$:colza:sclérotiniose:1
-AvisGC_617:p:b:n:$$:colza:méligèthe:plus de 20 méligèthes par pied:1
-AvisGC_617:p:b:n:$$:colza:méligèthe:plus de 7-8 méligèthes/plantes:1
-AvisGC_617:p:b:$$:colza:hyménoptère parasitoïde:1
-AvisGC_617:p:m:n:$$:orge d'hiver:helminthosporiose:fortement présente:1
-AvisGC_617:p:m:n:$$:orge d'hiver:helminthosporiose:30% de surface foliaire attaqué:1
-AvisGC_617:p:m:n:$$:orge d'hiver:helminthosporiose:50% des F4 avec symptômes:1
-AvisGC_617:p:s:$$:orge d'hiver:f4:1
-AvisGC_617:p:s:$$:orge d'hiver:F5:1
-AvisGC_617:p:s:$$:orge d'hiver:F6:1
-AvisGC_617:p:s:$$:orge d'hiver:1 noeud:1
-AvisGC_617:p:s:$$:orge d'hiver:F3:1
-AvisGC_617:p:s:$$:orge d'hiver:vraie pointante:1
-AvisGC_617:p:m:$$:orge d'hiver:rouille naine de l'orge:1
-AvisGC_617:p:m:$$:orge d'hiver:rhynchosporiose sur dactyle:1
+AvisGC 617:r:$:Champagne-Ardenne:
+AvisGC 617:nu:$:617:
+AvisGC 617:d:$:08.04.2004:
+AvisGC 617:f:$:triazoles:carbendazime:mavrik flo:malathion:strobilurine:
+AvisGC 617:p:$:colza:orge d'hiver:blé:orge d'hiver:proteagineux:arbustes:
+AvisGC 617:v:$:Monthois:Issé:Pavillon Ste Julie:Barby:Arrentières:
+AvisGC 617:b:$:méligèthe:hyménoptère parasitoïde:adventice:
+AvisGC 617:a:$:abeilles:
+AvisGC 617:m:$:Maladies foliaires:piétin-verse:helminthosporiose:anthracnose sur pois:cylindrosporiose des crucifères:sclérotiniose:cylindrosporiose des crucifères:rouille naine de l'orge:rhynchosporiose sur dactyle:
+AvisGC 617:n:$:plus de 20 méligèthes par pied:plus de 7-8 méligèthes/plantes:fortement présente:30% de surface foliaire attaqué:50% des F4 avec symptômes:
+AvisGC 617:s:$:D2:inflorescence principale dégagée:premières fleurs:1 à 2 noeuds:floraison:E:F5:f4:F6:1 noeud:F3:vraie pointante:
+AvisGC 617:p:s:$$:colza:D2:1
+AvisGC 617:p:s:$$:colza:inflorescence principale dégagée:1
+AvisGC 617:p:s:$$:colza:premières fleurs:1
+AvisGC 617:p:s:$$:colza:1 à 2 noeuds:1
+AvisGC 617:p:s:$$:colza:floraison:1
+AvisGC 617:p:s:$$:colza:E:1
+AvisGC 617:p:m:$$:blé:piétin-verse:1
+AvisGC 617:p:m:$$:blé:Maladies foliaires:1
+AvisGC 617:p:m:$$:orge d'hiver:helminthosporiose:1
+AvisGC 617:p:m:$$:proteagineux:anthracnose sur pois:1
+AvisGC 617:p:b:$$:colza:méligèthe:1
+AvisGC 617:p:m:$$:colza:cylindrosporiose des crucifères:1
+AvisGC 617:p:m:$$:colza:sclérotiniose:1
+AvisGC 617:p:b:n:$$:colza:méligèthe:plus de 20 méligèthes par pied:1
+AvisGC 617:p:b:n:$$:colza:méligèthe:plus de 7-8 méligèthes/plantes:1
+AvisGC 617:p:b:$$:colza:hyménoptère parasitoïde:1
+AvisGC 617:p:m:n:$$:orge d'hiver:helminthosporiose:fortement présente:1
+AvisGC 617:p:m:n:$$:orge d'hiver:helminthosporiose:30% de surface foliaire attaqué:1
+AvisGC 617:p:m:n:$$:orge d'hiver:helminthosporiose:50% des F4 avec symptômes:1
+AvisGC 617:p:s:$$:orge d'hiver:f4:1
+AvisGC 617:p:s:$$:orge d'hiver:F5:1
+AvisGC 617:p:s:$$:orge d'hiver:F6:1
+AvisGC 617:p:s:$$:orge d'hiver:1 noeud:1
+AvisGC 617:p:s:$$:orge d'hiver:F3:1
+AvisGC 617:p:s:$$:orge d'hiver:vraie pointante:1
+AvisGC 617:p:m:$$:orge d'hiver:rouille naine de l'orge:1
+AvisGC 617:p:m:$$:orge d'hiver:rhynchosporiose sur dactyle:1
 
-AvisGC_622:r:$:Champagne-Ardenne:
-AvisGC_622:nu:$:622:
-AvisGC_622:d:$:12.05.2004:
-AvisGC_622:f:$:strobilurine:triazole:
-AvisGC_622:p:$:colza:blé:proteagineux:pois protéagineux:orge d'hiver:orge de printemps:féverole:betterave:maïs:tournesol:pois de printemps:pois d'hiver:
-AvisGC_622:v:$:Saint-Pouange:Aubepierre:Essey-les-Ponts:Romilly-sur-Seine:Sainte-Ménéhould:Lavannes:Bar Séquanais:Bar-sur-Aube:Neuvy:Somme-Vesle:Arcis-sur-Aube:Poix-Terron:Aube:Haute-Marne:Pays d'Othe:Nord de la Haute-Marne:l'Est du Der:Brie champenoise:
-AvisGC_622:b:$:puceron du tournesol:puceron du tournesol:limace des jardins:puceron vert:puceron vert du pêcher:sitone du pois:charançon des siliques de colza:cécidomyie:puceron cendré:puceron des épis de céréales:puceron des épis de céréales:puceron:méligèthe:puceron vert du prunier:
-AvisGC_622:a:$:micro-hyménoptères:
-AvisGC_622:m:$:sclérotiniose:piétin-verse:oïdium:septoriose:fusariose de l'asperge:rouille naine de l'orge:maladie des taches brunes sur orge:
-AvisGC_622:n:$:non nuisibles:Aucune intervention n'est nécessaire:intensité inférieure à 2%:30% de F3 avec symptômes:1 à 3 cécidomyies en moyenne par tige de pois:
-AvisGC_622:s:$:levée à 3-4 feuilles:2 à 6 feuilles:7 à 9 étages de feuilles:G3:G4:g1:dernière feuille:Gonflement:dernière feuille étalée:7-8 feuilles:DFE:début floraison:sortie des barbes:début floraison:début floraison:1 noeud:6 à 8 feuilles:
-AvisGC_622:z:$:pas encore débutés:grand absent:aucun individu:Aucune nouvelle infestation:encore nulle:Aucun vol:Aucun:
-AvisGC_622:p:b:$$:colza:charançon des siliques de colza:1
-AvisGC_622:p:b:$$:colza:cécidomyie:1
-AvisGC_622:p:b:$$:colza:puceron cendré:1
-AvisGC_622:p:s:$$:colza:G3:1
-AvisGC_622:p:s:$$:colza:G4:1		
-AvisGC_622:p:s:$$:colza:g1:1
-AvisGC_622:p:b:$$:blé:puceron des épis de céréales:1
-AvisGC_622:p:b:n:$$:blé:puceron des épis de céréales:Aucune intervention n'est nécessaire:1
-AvisGC_622:p:s:$$:blé:dernière feuille:1
-AvisGC_622:p:s:$$:blé:Gonflement:1
-AvisGC_622:p:s:$$:blé:dernière feuille étalée:1
-AvisGC_622:p:s:$$:blé:DFE:1
-AvisGC_622:p:s:$$:blé:début floraison:1
-AvisGC_622:p:m:$$:blé:piétin-verse:1
-AvisGC_622:p:m:$$:blé:oïdium:1
-AvisGC_622:p:m:$$:blé:septoriose:1
-AvisGC_622:p:m:n:$$:blé:septoriose:intensité inférieure à 2%:1
-AvisGC_622:p:m:n:$$:blé:septoriose:30% de F3:1
-AvisGC_622:p:m:$$:blé:fusariose de l'asperge:1
-AvisGC_622:p:s:$$:orge d'hiver:sortie des barbes:1
-AvisGC_622:p:s:$$:orge d'hiver:début floraison:1
-AvisGC_622:p:m:$$:orge d'hiver:rouille naine de l'orge:1
-AvisGC_622:p:s:$$:orge de printemps:1 noeud:1
-AvisGC_622:p:m:$$:orge de printemps:oïdium:1
-AvisGC_622:p:m:$$:orge de printemps:maladie des taches brunes sur orge:1
-AvisGC_622:p:s:$$:pois de printemps:6 à 8 feuilles:1
-AvisGC_622:p:s:$$:pois d'hiver:début floraison:1
-AvisGC_622:p:b:$$:pois protéagineux:puceron:1
-AvisGC_622:p:s:$$:pois de printemps:7-8 feuilles:1
-AvisGC_622:p:b:$$:pois protéagineux:cécidomyie:1
-AvisGC_622:p:b:n:$$:pois protéagineux:cécidomyie:1 à 3 cécidomyies en moyenne par tige de pois:1
-AvisGC_622:p:s:$$:féverole:7 à 9 étages de feuilles:1
-AvisGC_622:p:b:$$:féverole:puceron:1
-AvisGC_622:p:b:$$:féverole:sitone du pois:1
-AvisGC_622:p:b:n:$$:féverole:sitone du pois:non nuisibles:1
-AvisGC_622:p:s:$$:betterave:2 à 6 feuilles:1
-AvisGC_622:p:b:$$:betterave:limace des jardins:1
-AvisGC_622:p:b:$$:betterave:puceron vert:1
-AvisGC_622:p:s:$$:maïs:levée à 3-4 feuilles:1
-AvisGC_622:p:s:$$:tournesol:levée à 3-4 feuilles:1
-AvisGC_622:p:b:$$:tournesol:puceron du tournesol:1
+AvisGC 622:r:$:Champagne-Ardenne:
+AvisGC 622:nu:$:622:
+AvisGC 622:d:$:12.05.2004:
+AvisGC 622:f:$:strobilurine:triazole:
+AvisGC 622:p:$:colza:blé:proteagineux:pois protéagineux:orge d'hiver:orge de printemps:féverole:betterave:maïs:tournesol:pois de printemps:pois d'hiver:
+AvisGC 622:v:$:Saint-Pouange:Aubepierre:Essey-les-Ponts:Romilly-sur-Seine:Sainte-Ménéhould:Lavannes:Bar Séquanais:Bar-sur-Aube:Neuvy:Somme-Vesle:Arcis-sur-Aube:Poix-Terron:Aube:Haute-Marne:Pays d'Othe:Nord de la Haute-Marne:l'Est du Der:Brie champenoise:
+AvisGC 622:b:$:puceron du tournesol:puceron du tournesol:limace des jardins:puceron vert:puceron vert du pêcher:sitone du pois:charançon des siliques de colza:cécidomyie:puceron cendré:puceron des épis de céréales:puceron des épis de céréales:puceron:méligèthe:puceron vert du prunier:
+AvisGC 622:a:$:micro-hyménoptères:
+AvisGC 622:m:$:sclérotiniose:piétin-verse:oïdium:septoriose:fusariose de l'asperge:rouille naine de l'orge:maladie des taches brunes sur orge:
+AvisGC 622:n:$:non nuisibles:Aucune intervention n'est nécessaire:intensité inférieure à 2%:30% de F3 avec symptômes:1 à 3 cécidomyies en moyenne par tige de pois:
+AvisGC 622:s:$:levée à 3-4 feuilles:2 à 6 feuilles:7 à 9 étages de feuilles:G3:G4:g1:dernière feuille:Gonflement:dernière feuille étalée:7-8 feuilles:DFE:début floraison:sortie des barbes:début floraison:début floraison:1 noeud:6 à 8 feuilles:
+AvisGC 622:z:$:pas encore débutés:grand absent:aucun individu:Aucune nouvelle infestation:encore nulle:Aucun vol:Aucun:
+AvisGC 622:p:b:$$:colza:charançon des siliques de colza:1
+AvisGC 622:p:b:$$:colza:cécidomyie:1
+AvisGC 622:p:b:$$:colza:puceron cendré:1
+AvisGC 622:p:s:$$:colza:G3:1
+AvisGC 622:p:s:$$:colza:G4:1		
+AvisGC 622:p:s:$$:colza:g1:1
+AvisGC 622:p:b:$$:blé:puceron des épis de céréales:1
+AvisGC 622:p:b:n:$$:blé:puceron des épis de céréales:Aucune intervention n'est nécessaire:1
+AvisGC 622:p:s:$$:blé:dernière feuille:1
+AvisGC 622:p:s:$$:blé:Gonflement:1
+AvisGC 622:p:s:$$:blé:dernière feuille étalée:1
+AvisGC 622:p:s:$$:blé:DFE:1
+AvisGC 622:p:s:$$:blé:début floraison:1
+AvisGC 622:p:m:$$:blé:piétin-verse:1
+AvisGC 622:p:m:$$:blé:oïdium:1
+AvisGC 622:p:m:$$:blé:septoriose:1
+AvisGC 622:p:m:n:$$:blé:septoriose:intensité inférieure à 2%:1
+AvisGC 622:p:m:n:$$:blé:septoriose:30% de F3:1
+AvisGC 622:p:m:$$:blé:fusariose de l'asperge:1
+AvisGC 622:p:s:$$:orge d'hiver:sortie des barbes:1
+AvisGC 622:p:s:$$:orge d'hiver:début floraison:1
+AvisGC 622:p:m:$$:orge d'hiver:rouille naine de l'orge:1
+AvisGC 622:p:s:$$:orge de printemps:1 noeud:1
+AvisGC 622:p:m:$$:orge de printemps:oïdium:1
+AvisGC 622:p:m:$$:orge de printemps:maladie des taches brunes sur orge:1
+AvisGC 622:p:s:$$:pois de printemps:6 à 8 feuilles:1
+AvisGC 622:p:s:$$:pois d'hiver:début floraison:1
+AvisGC 622:p:b:$$:pois protéagineux:puceron:1
+AvisGC 622:p:s:$$:pois de printemps:7-8 feuilles:1
+AvisGC 622:p:b:$$:pois protéagineux:cécidomyie:1
+AvisGC 622:p:b:n:$$:pois protéagineux:cécidomyie:1 à 3 cécidomyies en moyenne par tige de pois:1
+AvisGC 622:p:s:$$:féverole:7 à 9 étages de feuilles:1
+AvisGC 622:p:b:$$:féverole:puceron:1
+AvisGC 622:p:b:$$:féverole:sitone du pois:1
+AvisGC 622:p:b:n:$$:féverole:sitone du pois:non nuisibles:1
+AvisGC 622:p:s:$$:betterave:2 à 6 feuilles:1
+AvisGC 622:p:b:$$:betterave:limace des jardins:1
+AvisGC 622:p:b:$$:betterave:puceron vert:1
+AvisGC 622:p:s:$$:maïs:levée à 3-4 feuilles:1
+AvisGC 622:p:s:$$:tournesol:levée à 3-4 feuilles:1
+AvisGC 622:p:b:$$:tournesol:puceron du tournesol:1
 
-AvisGC_627:r:$:Champagne-Ardenne:
-AvisGC_627:nu:$:627:
-AvisGC_627:d:$:16.06.2004:
-AvisGC_627:f:$:pyréthrinoïde:chlorothalonil:triazole:
-AvisGC_627:p:$:blé:pois protéagineux:maïs:betterave:féverole:proteagineux:pois de printemps:pois d'hiver:légumineuse:
-AvisGC_627:v:$:Sainte-Ménéhould:Planty:Saint-Pouange:Ville-sur-Arce:Étourvy:La Croix-en-Champagne:Cormicy:Asfeld:Lavannes:Haute-Marne:Ardennes:Aube:Marne:Tardenois:Aube:
-AvisGC_627:b:$:puceron des épis de céréales:cécidomyie orangée du blé:tenthrède de la rave:chenilles défoliatrices:noctuelle:pyrale:tordeuse:bruche:puceron:puceron vert:micro-hyménoptères:thrips:chenille:adventice:cécidomyie:
-AvisGC_627:m:$:sclérotiniose:pourriture grise:rouille:bactériose:mildiou:anthracnose:Maladies du feuillage:oïdium:rouille brune du blé:helminthosporiose:fusariose:rouille:
-AvisGC_627:n:$:sans présenter de nuisibilité:330 captures:seuil d'intervention d'un épi sur deux colonisé est parfois atteint:nuisibilité sera à priori faible:dépassé le stade de sensibilité:quittent à présent le stade de sensibilité:plus de 100 pucerons par tige:
-AvisGC_627:s:$:6 à 11 feuilles:90 à 100% de couverture:5 à 10 étages de gousses:gousses plates sur le 2nd étage fructifère:Fin floraison:grain laiteux:grain laiteux-pâteux:gousses de taille définitive:jeunes gousses:
-AvisGC_627:z:$:ce ne sont pas:risque de contamination par le sclérotinia ou le botrytis devient nul:
-AvisGC_627:p:b:$$:blé:puceron des épis de céréales:1
-AvisGC_627:p:b:n:$$:blé:puceron des épis de céréales:seuil d'intervention d'un épi sur deux colonisé est parfois atteint:1
-AvisGC_627:p:b:$$:blé:cécidomyie orangée du blé:1
-AvisGC_627:p:b:$$:blé:tenthrède de la rave:1
-AvisGC_627:p:b:n:$$:blé:tenthrède de la rave:nuisibilité sera à priori faible:1
-AvisGC_627:p:b:$$:blé:noctuelle:1
-AvisGC_627:p:m:$$:blé:Maladies du feuillage:1
-AvisGC_627:p:m:$$:blé:oïdium:1
-AvisGC_627:p:m:$$:blé:rouille brune du blé:1
-AvisGC_627:p:m:$$:blé:helminthosporiose:1
-AvisGC_627:p:m:$$:blé:fusariose:1
-AvisGC_627:p:m:n:$$:blé:fusariose:dépassé le stade de sensibilité:1
-AvisGC_627:p:b:$$:maïs:pyrale:1
-AvisGC_627:p:m:$$:proteagineux:rouille:1
-AvisGC_627:p:b:$$:féverole:tordeuse:1
-AvisGC_627:p:b:$$:féverole:bruche:1
-AvisGC_627:p:s:$$:féverole:5 à 10 étages de gousses:1
-AvisGC_627:p:s:$$:pois de printemps:Fin floraison:1
-AvisGC_627:p:s:$$:pois de printemps:jeunes gousses:1
-AvisGC_627:p:s:$$:pois de printemps:gousses de taille définitive:1
-AvisGC_627:p:s:$$:pois d'hiver:gousses de taille définitive:1
-AvisGC_627:p:s:$$:légumineuse:gousses plates sur le 2nd étage fructifère:1
-AvisGC_627:p:b:$$:pois protéagineux:puceron:1
-AvisGC_627:p:b:$$:pois protéagineux:puceron vert:1
-AvisGC_627:p:b:$$:pois protéagineux:micro-hyménoptères:1
-AvisGC_627:p:b:n:$$:pois protéagineux:puceron:quittent à présent le stade de sensibilité:1
-AvisGC_627:p:b:n:$$:pois protéagineux:puceron vert:quittent à présent le stade de sensibilité:1
-AvisGC_627:p:b:n:$$:pois protéagineux:micro-hyménoptères:quittent à présent le stade de sensibilité:1
-AvisGC_627:p:b:n:$$:pois protéagineux:puceron:plus de 100 pucerons par tige:1
-AvisGC_627:p:b:n:$$:pois protéagineux:puceron vert:plus de 100 pucerons par tige:1
-AvisGC_627:p:b:n:$$:pois protéagineux:micro-hyménoptères:plus de 100 pucerons par tige:1
-AvisGC_627:p:b:$$:pois protéagineux:tordeuse:1
-AvisGC_627:p:b:n:$$:pois protéagineux:tordeuse:330 captures:1
-AvisGC_627:p:b:$$:pois protéagineux:cécidomyie:1
-AvisGC_627:p:m:$$:pois protéagineux:anthracnose:1
-AvisGC_627:p:m:$$:pois protéagineux:bactériose:1
-AvisGC_627:p:m:$$:pois protéagineux:mildiou:1
-AvisGC_627:p:m:$$:pois protéagineux:sclérotiniose:1
-AvisGC_627:p:m:$$:pois protéagineux:pourriture grise:1
-AvisGC_627:p:m:$$:féverole:rouille:1
-AvisGC_627:p:b:$$:féverole:puceron:1
-AvisGC_627:p:b:$$:féverole:thrips:1
-AvisGC_627:p:s:$$:betterave:90 à 100% de couverture:1
-AvisGC_627:p:b:$$:betterave:puceron:1
-AvisGC_627:p:b:$$:betterave:noctuelle:1
-AvisGC_627:p:m:$$:betterave:bactériose:1
-AvisGC_627:p:s:$$:maïs:6 à 11 feuilles:1
-AvisGC_627:p:b:$$:maïs:puceron:1
-AvisGC_627:p:b:n:$$:maïs:puceron:sans présenter de nuisibilité:1
+AvisGC 627:r:$:Champagne-Ardenne:
+AvisGC 627:nu:$:627:
+AvisGC 627:d:$:16.06.2004:
+AvisGC 627:f:$:pyréthrinoïde:chlorothalonil:triazole:
+AvisGC 627:p:$:blé:pois protéagineux:maïs:betterave:féverole:proteagineux:pois de printemps:pois d'hiver:légumineuse:
+AvisGC 627:v:$:Sainte-Ménéhould:Planty:Saint-Pouange:Ville-sur-Arce:Étourvy:La Croix-en-Champagne:Cormicy:Asfeld:Lavannes:Haute-Marne:Ardennes:Aube:Marne:Tardenois:Aube:
+AvisGC 627:b:$:puceron des épis de céréales:cécidomyie orangée du blé:tenthrède de la rave:chenilles défoliatrices:noctuelle:pyrale:tordeuse:bruche:puceron:puceron vert:micro-hyménoptères:thrips:chenille:adventice:cécidomyie:
+AvisGC 627:m:$:sclérotiniose:pourriture grise:rouille:bactériose:mildiou:anthracnose:Maladies du feuillage:oïdium:rouille brune du blé:helminthosporiose:fusariose:rouille:
+AvisGC 627:n:$:sans présenter de nuisibilité:330 captures:seuil d'intervention d'un épi sur deux colonisé est parfois atteint:nuisibilité sera à priori faible:dépassé le stade de sensibilité:quittent à présent le stade de sensibilité:plus de 100 pucerons par tige:
+AvisGC 627:s:$:6 à 11 feuilles:90 à 100% de couverture:5 à 10 étages de gousses:gousses plates sur le 2nd étage fructifère:Fin floraison:grain laiteux:grain laiteux-pâteux:gousses de taille définitive:jeunes gousses:
+AvisGC 627:z:$:ce ne sont pas:risque de contamination par le sclérotinia ou le botrytis devient nul:
+AvisGC 627:p:b:$$:blé:puceron des épis de céréales:1
+AvisGC 627:p:b:n:$$:blé:puceron des épis de céréales:seuil d'intervention d'un épi sur deux colonisé est parfois atteint:1
+AvisGC 627:p:b:$$:blé:cécidomyie orangée du blé:1
+AvisGC 627:p:b:$$:blé:tenthrède de la rave:1
+AvisGC 627:p:b:n:$$:blé:tenthrède de la rave:nuisibilité sera à priori faible:1
+AvisGC 627:p:b:$$:blé:noctuelle:1
+AvisGC 627:p:m:$$:blé:Maladies du feuillage:1
+AvisGC 627:p:m:$$:blé:oïdium:1
+AvisGC 627:p:m:$$:blé:rouille brune du blé:1
+AvisGC 627:p:m:$$:blé:helminthosporiose:1
+AvisGC 627:p:m:$$:blé:fusariose:1
+AvisGC 627:p:m:n:$$:blé:fusariose:dépassé le stade de sensibilité:1
+AvisGC 627:p:b:$$:maïs:pyrale:1
+AvisGC 627:p:m:$$:proteagineux:rouille:1
+AvisGC 627:p:b:$$:féverole:tordeuse:1
+AvisGC 627:p:b:$$:féverole:bruche:1
+AvisGC 627:p:s:$$:féverole:5 à 10 étages de gousses:1
+AvisGC 627:p:s:$$:pois de printemps:Fin floraison:1
+AvisGC 627:p:s:$$:pois de printemps:jeunes gousses:1
+AvisGC 627:p:s:$$:pois de printemps:gousses de taille définitive:1
+AvisGC 627:p:s:$$:pois d'hiver:gousses de taille définitive:1
+AvisGC 627:p:s:$$:légumineuse:gousses plates sur le 2nd étage fructifère:1
+AvisGC 627:p:b:$$:pois protéagineux:puceron:1
+AvisGC 627:p:b:$$:pois protéagineux:puceron vert:1
+AvisGC 627:p:b:$$:pois protéagineux:micro-hyménoptères:1
+AvisGC 627:p:b:n:$$:pois protéagineux:puceron:quittent à présent le stade de sensibilité:1
+AvisGC 627:p:b:n:$$:pois protéagineux:puceron vert:quittent à présent le stade de sensibilité:1
+AvisGC 627:p:b:n:$$:pois protéagineux:micro-hyménoptères:quittent à présent le stade de sensibilité:1
+AvisGC 627:p:b:n:$$:pois protéagineux:puceron:plus de 100 pucerons par tige:1
+AvisGC 627:p:b:n:$$:pois protéagineux:puceron vert:plus de 100 pucerons par tige:1
+AvisGC 627:p:b:n:$$:pois protéagineux:micro-hyménoptères:plus de 100 pucerons par tige:1
+AvisGC 627:p:b:$$:pois protéagineux:tordeuse:1
+AvisGC 627:p:b:n:$$:pois protéagineux:tordeuse:330 captures:1
+AvisGC 627:p:b:$$:pois protéagineux:cécidomyie:1
+AvisGC 627:p:m:$$:pois protéagineux:anthracnose:1
+AvisGC 627:p:m:$$:pois protéagineux:bactériose:1
+AvisGC 627:p:m:$$:pois protéagineux:mildiou:1
+AvisGC 627:p:m:$$:pois protéagineux:sclérotiniose:1
+AvisGC 627:p:m:$$:pois protéagineux:pourriture grise:1
+AvisGC 627:p:m:$$:féverole:rouille:1
+AvisGC 627:p:b:$$:féverole:puceron:1
+AvisGC 627:p:b:$$:féverole:thrips:1
+AvisGC 627:p:s:$$:betterave:90 à 100% de couverture:1
+AvisGC 627:p:b:$$:betterave:puceron:1
+AvisGC 627:p:b:$$:betterave:noctuelle:1
+AvisGC 627:p:m:$$:betterave:bactériose:1
+AvisGC 627:p:s:$$:maïs:6 à 11 feuilles:1
+AvisGC 627:p:b:$$:maïs:puceron:1
+AvisGC 627:p:b:n:$$:maïs:puceron:sans présenter de nuisibilité:1
 
-AvisGC_633:r:$:Champagne-Ardenne:
-AvisGC_633:nu:$:633:
-AvisGC_633:d:$:03.08.2004:
-AvisGC_633:p:$:betterave:maïs:
-AvisGC_633:v:$:La Rothière:Brévian:Marne:Ardennes:Aube:Tardenois:
-AvisGC_633:b:$:noctuelle:acarien:pyrale:puceron:
-AvisGC_633:m:$:oïdium:cercosporose:rouille:
-AvisGC_633:n:$:inutile d'intervenir:n'atteint les seuils:5% de pieds touchés:15% pour:
-AvisGC_633:s:$:Diamètre du pivot autour de 15 cm:Mi-floraison à début de la formation des grains:
-AvisGC_633:p:b:$$:betterave:noctuelle:1
-AvisGC_633:p:b:$$:betterave:acarien:1
-AvisGC_633:p:s:$$:betterave:Diamètre du pivot autour de 15 cm:1
-AvisGC_633:p:b:n:$$:betterave:noctuelle:inutile d'intervenir:1
-AvisGC_633:p:b:n:$$:betterave:acarien:inutile d'intervenir:1
-AvisGC_633:p:m:$$:betterave:oïdium:1
-AvisGC_633:p:m:$$:betterave:cercosporose:1
-AvisGC_633:p:m:$$:betterave:rouille:1
-AvisGC_633:p:m:n:$$:betterave:cercosporose:n'atteint les seuils:1
-AvisGC_633:p:m:n:$$:betterave:cercosporose:5% de pieds:1
-AvisGC_633:p:m:n:$$:betterave:rouille:5% de pieds:1
-AvisGC_633:p:m:n:$$:betterave:oïdium:15% pour:1
-AvisGC_633:p:s:$$:maïs:Mi-floraison à début de la formation des grains:1
-AvisGC_633:p:b:$$:maïs:puceron:1
-AvisGC_633:p:b:$$:maïs:acarien:1
-AvisGC_633:p:b:$$:maïs:pyrale:1
+AvisGC 633:r:$:Champagne-Ardenne:
+AvisGC 633:nu:$:633:
+AvisGC 633:d:$:03.08.2004:
+AvisGC 633:p:$:betterave:maïs:
+AvisGC 633:v:$:La Rothière:Brévian:Marne:Ardennes:Aube:Tardenois:
+AvisGC 633:b:$:noctuelle:acarien:pyrale:puceron:
+AvisGC 633:m:$:oïdium:cercosporose:rouille:
+AvisGC 633:n:$:inutile d'intervenir:n'atteint les seuils:5% de pieds touchés:15% pour:
+AvisGC 633:s:$:Diamètre du pivot autour de 15 cm:Mi-floraison à début de la formation des grains:
+AvisGC 633:p:b:$$:betterave:noctuelle:1
+AvisGC 633:p:b:$$:betterave:acarien:1
+AvisGC 633:p:s:$$:betterave:Diamètre du pivot autour de 15 cm:1
+AvisGC 633:p:b:n:$$:betterave:noctuelle:inutile d'intervenir:1
+AvisGC 633:p:b:n:$$:betterave:acarien:inutile d'intervenir:1
+AvisGC 633:p:m:$$:betterave:oïdium:1
+AvisGC 633:p:m:$$:betterave:cercosporose:1
+AvisGC 633:p:m:$$:betterave:rouille:1
+AvisGC 633:p:m:n:$$:betterave:cercosporose:n'atteint les seuils:1
+AvisGC 633:p:m:n:$$:betterave:cercosporose:5% de pieds:1
+AvisGC 633:p:m:n:$$:betterave:rouille:5% de pieds:1
+AvisGC 633:p:m:n:$$:betterave:oïdium:15% pour:1
+AvisGC 633:p:s:$$:maïs:Mi-floraison à début de la formation des grains:1
+AvisGC 633:p:b:$$:maïs:puceron:1
+AvisGC 633:p:b:$$:maïs:acarien:1
+AvisGC 633:p:b:$$:maïs:pyrale:1
 
-AvisGC_638:r:$:Champagne-Ardenne:
-AvisGC_638:nu:$:638:
-AvisGC_638:d:$:29.09.2004:
-AvisGC_638:f:$:sulfosate:pyréthrinoïde:imidacloprid:
-AvisGC_638:p:$:colza:blé:fétuque:dactyle:trèfle blanc:houlque:ray-grass:trèfle incarnat:
-AvisGC_638:v:$:Langres:Montlaurent:Cormicy:Cormicy:Essey-les-Ponts:Coursan-en-Othe:Neuville sur Vanne:Pavillon Sainte-Julie:Villemaur-sur-Vanne:Fère-Champenoise:Le Thour:Aussonce:Aube:Sud de l'Aube:Sud de la Marne:proches de la Bourgogne:
-AvisGC_638:b:$:cicadelle:cicadelle:mouche du chou:méligèthe:charançon:altise:noctuelle:teigne:doryphore:chenille:puceron:limace des jardins:tenthrède de la rave:altise des crucifères:chenille:grosse altise du colza:puceron:adventice:cicadelle des céréales:
-AvisGC_638:a:$:carabe:micro-hyménoptères:
-AvisGC_638:m:$:phoma:mildiou:wheat dwarf virus:virus:jaunisse nanisante de l'orge:
-AvisGC_638:n:$:20 à 40 captures:44% de pieds porteurs:28%:12%:défoliations sont de faibles intensités:peu actives:dégâts au champ, faibles à inexistant:peu dommageables:20-30 captures cumulées:20% de pieds porteurs:
-AvisGC_638:s:$:Germination:5-6 feuilles:levées:3-4F:2F à 4F:6F:
-AvisGC_638:z:$:moins forte que:
-AvisGC_638:p:s:$$:colza:Germination:1
-AvisGC_638:p:s:$$:colza:5-6 feuilles:1
-AvisGC_638:p:s:$$:colza:levées:1
-AvisGC_638:p:b:$$:colza:limace des jardins:1
-AvisGC_638:p:s:$$:colza:3-4F:1
-AvisGC_638:p:b:$$:colza:tenthrède de la rave:1
-AvisGC_638:p:b:$$:colza:altise des crucifères:1
-AvisGC_638:p:b:$$:colza:chenille:1
-AvisGC_638:p:b:$$:colza:noctuelle:1
-AvisGC_638:p:b:$$:colza:teigne:1
-AvisGC_638:p:b:n:$$:colza:chenille:défoliations sont de faibles intensités:1
-AvisGC_638:p:b:n:$$:colza:noctuelle:défoliations sont de faibles intensités:1
-AvisGC_638:p:b:n:$$:colza:teigne:défoliations sont de faibles intensités:1
-AvisGC_638:p:b:n:$$:colza:altise des crucifères:peu actives:1
-AvisGC_638:p:b:n:$$:colza:tenthrède de la rave:dégâts au champ, faibles à inexistant:1
-AvisGC_638:p:b:$$:colza:mouche du chou:1
-AvisGC_638:p:b:$$:colza:grosse altise du colza:1
-AvisGC_638:p:b:n:$$:colza:grosse altise du colza:peu dommageables:1
-AvisGC_638:p:b:n:$$:colza:grosse altise du colza:20-30 captures cumulées:1
-AvisGC_638:p:b:$$:colza:puceron:1
-AvisGC_638:p:b:n:$$:colza:puceron:44% de pieds porteurs:1
-AvisGC_638:p:b:n:$$:colza:puceron:28%:1
-AvisGC_638:p:b:n:$$:colza:puceron:12%:1
-AvisGC_638:p:s:$$:colza:2F à 4F:1
-AvisGC_638:p:s:$$:colza:6F:1
-AvisGC_638:p:b:n:$$:colza:puceron:20% de pieds porteurs:1
-AvisGC_638:p:m:$$:colza:phoma:1
-AvisGC_638:p:m:$$:colza:mildiou:1
-AvisGC_638:p:s:$$:blé:levées:1
-AvisGC_638:p:b:$$:blé:cicadelle:1
-AvisGC_638:p:m:$$:blé:wheat dwarf virus:1
-AvisGC_638:p:m:$$:blé:virus:1
-AvisGC_638:p:m:$$:blé:jaunisse nanisante de l'orge:1
-AvisGC_638:p:b:n:$$:blé:cicadelle:20 à 40 captures:1
+AvisGC 638:r:$:Champagne-Ardenne:
+AvisGC 638:nu:$:638:
+AvisGC 638:d:$:29.09.2004:
+AvisGC 638:f:$:sulfosate:pyréthrinoïde:imidacloprid:
+AvisGC 638:p:$:colza:blé:fétuque:dactyle:trèfle blanc:houlque:ray-grass:trèfle incarnat:
+AvisGC 638:v:$:Langres:Montlaurent:Cormicy:Cormicy:Essey-les-Ponts:Coursan-en-Othe:Neuville sur Vanne:Pavillon Sainte-Julie:Villemaur-sur-Vanne:Fère-Champenoise:Le Thour:Aussonce:Aube:Sud de l'Aube:Sud de la Marne:proches de la Bourgogne:
+AvisGC 638:b:$:cicadelle:cicadelle:mouche du chou:méligèthe:charançon:altise:noctuelle:teigne:doryphore:chenille:puceron:limace des jardins:tenthrède de la rave:altise des crucifères:chenille:grosse altise du colza:puceron:adventice:cicadelle des céréales:
+AvisGC 638:a:$:carabe:micro-hyménoptères:
+AvisGC 638:m:$:phoma:mildiou:wheat dwarf virus:virus:jaunisse nanisante de l'orge:
+AvisGC 638:n:$:20 à 40 captures:44% de pieds porteurs:28%:12%:défoliations sont de faibles intensités:peu actives:dégâts au champ, faibles à inexistant:peu dommageables:20-30 captures cumulées:20% de pieds porteurs:
+AvisGC 638:s:$:Germination:5-6 feuilles:levées:3-4F:2F à 4F:6F:
+AvisGC 638:z:$:moins forte que:
+AvisGC 638:p:s:$$:colza:Germination:1
+AvisGC 638:p:s:$$:colza:5-6 feuilles:1
+AvisGC 638:p:s:$$:colza:levées:1
+AvisGC 638:p:b:$$:colza:limace des jardins:1
+AvisGC 638:p:s:$$:colza:3-4F:1
+AvisGC 638:p:b:$$:colza:tenthrède de la rave:1
+AvisGC 638:p:b:$$:colza:altise des crucifères:1
+AvisGC 638:p:b:$$:colza:chenille:1
+AvisGC 638:p:b:$$:colza:noctuelle:1
+AvisGC 638:p:b:$$:colza:teigne:1
+AvisGC 638:p:b:n:$$:colza:chenille:défoliations sont de faibles intensités:1
+AvisGC 638:p:b:n:$$:colza:noctuelle:défoliations sont de faibles intensités:1
+AvisGC 638:p:b:n:$$:colza:teigne:défoliations sont de faibles intensités:1
+AvisGC 638:p:b:n:$$:colza:altise des crucifères:peu actives:1
+AvisGC 638:p:b:n:$$:colza:tenthrède de la rave:dégâts au champ, faibles à inexistant:1
+AvisGC 638:p:b:$$:colza:mouche du chou:1
+AvisGC 638:p:b:$$:colza:grosse altise du colza:1
+AvisGC 638:p:b:n:$$:colza:grosse altise du colza:peu dommageables:1
+AvisGC 638:p:b:n:$$:colza:grosse altise du colza:20-30 captures cumulées:1
+AvisGC 638:p:b:$$:colza:puceron:1
+AvisGC 638:p:b:n:$$:colza:puceron:44% de pieds porteurs:1
+AvisGC 638:p:b:n:$$:colza:puceron:28%:1
+AvisGC 638:p:b:n:$$:colza:puceron:12%:1
+AvisGC 638:p:s:$$:colza:2F à 4F:1
+AvisGC 638:p:s:$$:colza:6F:1
+AvisGC 638:p:b:n:$$:colza:puceron:20% de pieds porteurs:1
+AvisGC 638:p:m:$$:colza:phoma:1
+AvisGC 638:p:m:$$:colza:mildiou:1
+AvisGC 638:p:s:$$:blé:levées:1
+AvisGC 638:p:b:$$:blé:cicadelle:1
+AvisGC 638:p:m:$$:blé:wheat dwarf virus:1
+AvisGC 638:p:m:$$:blé:virus:1
+AvisGC 638:p:m:$$:blé:jaunisse nanisante de l'orge:1
+AvisGC 638:p:b:n:$$:blé:cicadelle:20 à 40 captures:1
 
-AvisGC_644:r:$:Champagne-Ardenne:
-AvisGC_644:nu:$:644:
-AvisGC_644:d:$:14.12.2004:
-AvisGC_644:f:$:chlorophacinone:
-AvisGC_644:p:$:céréales:orge d'hiver:luzerne:légumineuse:colza:blé:pois protéagineux:
-AvisGC_644:v:$:Reims:
-AvisGC_644:b:$:puceron:campagnol des champs:rongeur:mulot sylvestre:adventice:campagnol des champs:
-AvisGC_644:m:$:Maladies:oïdium:helminthosporiose:pourriture racinaire du pois:
-AvisGC_644:p:m:$$:céréales:oïdium:1
-AvisGC_644:p:m:$$:orge d'hiver:helminthosporiose:1
-AvisGC_644:p:b:$$:luzerne:campagnol des champs:1
-AvisGC_644:p:b:$$:céréales:campagnol des champs:1
-AvisGC_644:p:b:$$:colza:campagnol des champs:1
-AvisGC_644:p:m:$$:pois protéagineux:pourriture racinaire du pois:1
+AvisGC 644:r:$:Champagne-Ardenne:
+AvisGC 644:nu:$:644:
+AvisGC 644:d:$:14.12.2004:
+AvisGC 644:f:$:chlorophacinone:
+AvisGC 644:p:$:céréales:orge d'hiver:luzerne:légumineuse:colza:blé:pois protéagineux:
+AvisGC 644:v:$:Reims:
+AvisGC 644:b:$:puceron:campagnol des champs:rongeur:mulot sylvestre:adventice:campagnol des champs:
+AvisGC 644:m:$:Maladies:oïdium:helminthosporiose:pourriture racinaire du pois:
+AvisGC 644:p:m:$$:céréales:oïdium:1
+AvisGC 644:p:m:$$:orge d'hiver:helminthosporiose:1
+AvisGC 644:p:b:$$:luzerne:campagnol des champs:1
+AvisGC 644:p:b:$$:céréales:campagnol des champs:1
+AvisGC 644:p:b:$$:colza:campagnol des champs:1
+AvisGC 644:p:m:$$:pois protéagineux:pourriture racinaire du pois:1
 
-AvisGC_652:r:$:Champagne-Ardenne:
-AvisGC_652:nu:$:652:
-AvisGC_652:d:$:18.04.2005:
-AvisGC_652:f:$:cyprodinil:epoxiconazole:triazoles:strobilurine:Contans:coniothyrium minitans:
-AvisGC_652:p:$:blé:colza:betterave:orge d'hiver:tournesol:céréales:pois protéagineux:
-AvisGC_652:m:$:septoriose:sclérotiniose:piétin-verse:
-AvisGC_652:s:$:E:f2:Epi 1 cm:1 noeud:2 noeuds:F5:F6:f4:F3 définitive:F2 définitive:F4 définitives:fin des semis à cotylédons:
-AvisGC_652:p:s:$$:blé:Epi 1 cm:1
-AvisGC_652:p:s:$$:blé:1 noeud:1
-AvisGC_652:p:s:$$:blé:2 noeuds:1
-AvisGC_652:p:s:$$:blé:F5:1
-AvisGC_652:p:s:$$:blé:F6:1
-AvisGC_652:p:s:$$:blé:f4:1
-AvisGC_652:p:s:$$:blé:F4 définitives:1
-AvisGC_652:p:s:$$:blé:F3 définitive:1
-AvisGC_652:p:s:$$:blé:F2 définitive:1
-AvisGC_652:p:m:$$:blé:piétin-verse:1
-AvisGC_652:p:m:$$:blé:septoriose:1
-AvisGC_652:p:m:$$:colza:sclérotiniose:1
-AvisGC_652:p:s:$$:colza:E:1
-AvisGC_652:p:s:$$:colza:f2:1
-AvisGC_652:p:s:$$:betterave:fin des semis à cotylédons:1
+AvisGC 652:r:$:Champagne-Ardenne:
+AvisGC 652:nu:$:652:
+AvisGC 652:d:$:18.04.2005:
+AvisGC 652:f:$:cyprodinil:epoxiconazole:triazoles:strobilurine:Contans:coniothyrium minitans:
+AvisGC 652:p:$:blé:colza:betterave:orge d'hiver:tournesol:céréales:pois protéagineux:
+AvisGC 652:m:$:septoriose:sclérotiniose:piétin-verse:
+AvisGC 652:s:$:E:f2:Epi 1 cm:1 noeud:2 noeuds:F5:F6:f4:F3 définitive:F2 définitive:F4 définitives:fin des semis à cotylédons:
+AvisGC 652:p:s:$$:blé:Epi 1 cm:1
+AvisGC 652:p:s:$$:blé:1 noeud:1
+AvisGC 652:p:s:$$:blé:2 noeuds:1
+AvisGC 652:p:s:$$:blé:F5:1
+AvisGC 652:p:s:$$:blé:F6:1
+AvisGC 652:p:s:$$:blé:f4:1
+AvisGC 652:p:s:$$:blé:F4 définitives:1
+AvisGC 652:p:s:$$:blé:F3 définitive:1
+AvisGC 652:p:s:$$:blé:F2 définitive:1
+AvisGC 652:p:m:$$:blé:piétin-verse:1
+AvisGC 652:p:m:$$:blé:septoriose:1
+AvisGC 652:p:m:$$:colza:sclérotiniose:1
+AvisGC 652:p:s:$$:colza:E:1
+AvisGC 652:p:s:$$:colza:f2:1
+AvisGC 652:p:s:$$:betterave:fin des semis à cotylédons:1
 
-AvisGC_657:r:$:Champagne-Ardenne:
-AvisGC_657:nu:$:657:
-AvisGC_657:d:$:25.05.2005:
-AvisGC_657:f:$:chlorothalonil:triazole:strobilurine:triazamate:
-AvisGC_657:p:$:colza:blé:pois protéagineux:féverole:betterave:maïs:tournesol:orge de printemps:
-AvisGC_657:v:$:Warmeriville:Cormicy:Onjon:Somme-Vesle:Villemaur-sur-Vanne:Asfeld:Mergey:Bréviandes:Fère-Champenoise:Marne:Argonne:Rethelois:Aube:Ardennes:Tardenois:
-AvisGC_657:b:$:adventice:bruche:puceron:puceron des épis de céréales:cécidomyie:tordeuse:puceron vert:puceron noir:puceron vert du pêcher:
-AvisGC_657:a:$:syrphe:coccinelle:chrysope:micro-hyménoptères:
-AvisGC_657:m:$:pourriture grise:anthracnose:rouille:mildiou:sclérotiniose:alternariose:septoriose:oïdium:helminthosporiose:fusariose:rouille naine de l'orge:rhynchosporiose sur dactyle:
-AvisGC_657:n:$:des fréquences relativement faibles d'attaque:un épi sur deux avec au moins 1 puceron:stades de sensibilité ne sont bien sûr pas encore atteints:0,04 cécidomyies par bouton:2 captures au piège:plus de 3 cécidomyies par boutons:seuil d'1 cécidomyie par bouton est atteint:jamais plus d'1 puceron par tige:sont loin d'être atteint:8% des pieds:1 pucerons pour 10 plantes:en dessous des seuils de nuisibilité:
-AvisGC_657:s:$:2 noeuds:sortie des barbes:3 noeuds:Défloraison:graines de taille définitive:gonflement:90% des épis sortis:f1:épiaison:mi-floraison:premières fleurs ouvertes:Boutons floraux protégés par les dernières feuilles:premières fleurs visibles:début floraison:Séparation des étages floraux:premières fleurs ouvertes:premières gousses:6 feuilles:12 feuilles
-AvisGC_657:p:s:$$:colza:Défloraison:1
-AvisGC_657:p:s:$$:colza:graines de taille définitive:1
-AvisGC_657:p:m:$$:colza:sclérotiniose:1
-AvisGC_657:p:m:n:$$:colza:sclérotiniose:fréquences relativement faibles d'attaque:1
-AvisGC_657:p:m:$$:colza:alternariose:1
-AvisGC_657:p:s:$$:blé:gonflement:1
-AvisGC_657:p:s:$$:blé:90% des épis sortis:1
-AvisGC_657:p:s:$$:blé:f1:1
-AvisGC_657:p:s:$$:blé:épiaison:1
-AvisGC_657:p:s:$$:blé:mi-floraison:1
-AvisGC_657:p:m:$$:blé:septoriose:1
-AvisGC_657:p:m:$$:blé:oïdium:1
-AvisGC_657:p:m:$$:blé:helminthosporiose:1
-AvisGC_657:p:m:$$:blé:fusariose:1
-AvisGC_657:p:b:$$:blé:puceron:1
-AvisGC_657:p:b:$$:blé:puceron des épis de céréales:1
-AvisGC_657:p:b:n:$$:blé:puceron:un épi sur deux avec au moins 1 puceron:1
-AvisGC_657:p:b:n:$$:blé:puceron des épis de céréales:un épi sur deux avec au moins 1 puceron:1
-AvisGC_657:p:s:$$:orge de printemps:2 noeuds:1
-AvisGC_657:p:s:$$:orge de printemps:sortie des barbes:1
-AvisGC_657:p:s:$$:orge de printemps:3 noeuds:1
-AvisGC_657:p:s:$$:orge de printemps:premières fleurs ouvertes:1
-AvisGC_657:p:m:$$:orge de printemps:rouille naine de l'orge:1
-AvisGC_657:p:m:$$:orge de printemps:oïdium:1
-AvisGC_657:p:m:$$:orge de printemps:rhynchosporiose sur dactyle:1
-AvisGC_657:p:m:$$:orge de printemps:helminthosporiose:1
-AvisGC_657:p:s:$$:pois protéagineux:Boutons floraux protégés par les dernières feuilles:1
-AvisGC_657:p:s:$$:pois protéagineux:premières fleurs visibles:1
-AvisGC_657:p:s:$$:pois protéagineux:début floraison:1
-AvisGC_657:p:b:$$:pois protéagineux:tordeuse:1
-AvisGC_657:p:b:$$:pois protéagineux:puceron vert:1
-AvisGC_657:p:b:n:$$:pois protéagineux:puceron vert:jamais plus d'1 puceron par tige:1
-AvisGC_657:p:b:n:$$:pois protéagineux:puceron vert:sont loin d'être atteint:1
-AvisGC_657:p:b:n:$$:pois protéagineux:tordeuse:stades de sensibilité ne sont bien sûr pas encore atteints:1
-AvisGC_657:p:b:$$:pois protéagineux:cécidomyie:1
-AvisGC_657:p:b:n:$$:pois protéagineux:cécidomyie:0,04 cécidomyies par bouton:1
-AvisGC_657:p:b:n:$$:pois protéagineux:cécidomyie:2 captures au piège:1
-AvisGC_657:p:b:n:$$:pois protéagineux:cécidomyie:plus de 3 cécidomyies par boutons:1
-AvisGC_657:p:b:n:$$:pois protéagineux:cécidomyie:1 cécidomyie par bouton:1
-AvisGC_657:p:m:$$:pois protéagineux:anthracnose:1
-AvisGC_657:p:m:$$:pois protéagineux:pourriture grise:1
-AvisGC_657:p:m:$$:pois protéagineux:rouille:1
-AvisGC_657:p:m:$$:pois protéagineux:mildiou:1
-AvisGC_657:p:s:$$:féverole:Séparation des étages floraux:1
-AvisGC_657:p:s:$$:féverole:premières fleurs ouvertes:1
-AvisGC_657:p:s:$$:féverole:premières gousses:1
-AvisGC_657:p:b:$$:féverole:puceron vert:1
-AvisGC_657:p:b:$$:féverole:puceron noir:1
-AvisGC_657:p:b:$$:féverole:bruche:1
-AvisGC_657:p:b:n:$$:féverole:bruche:8% des pieds:1
-AvisGC_657:p:m:$$:féverole:pourriture grise:1
-AvisGC_657:p:s:$$:betterave:6 feuilles:1
-AvisGC_657:p:s:$$:betterave:12 feuilles:1
-AvisGC_657:p:b:$$:betterave:puceron noir:1
-AvisGC_657:p:b:n:$$:betterave:puceron noir:1 pucerons pour 10 plantes:1
-AvisGC_657:p:b:$$:betterave:puceron vert:1
-AvisGC_657:p:s:$$:maïs:4 à 6 feuilles:1
-AvisGC_657:p:b:$$:maïs:adventice:1
-AvisGC_657:p:s:$$:tournesol:6 à 8 feuilles:1
-AvisGC_657:p:b:$$:tournesol:puceron:1
-AvisGC_657:p:b:n:$$:tournesol:puceron:en dessous des seuils de nuisibilité:1
+AvisGC 657:r:$:Champagne-Ardenne:
+AvisGC 657:nu:$:657:
+AvisGC 657:d:$:25.05.2005:
+AvisGC 657:f:$:chlorothalonil:triazole:strobilurine:triazamate:
+AvisGC 657:p:$:colza:blé:pois protéagineux:féverole:betterave:maïs:tournesol:orge de printemps:
+AvisGC 657:v:$:Warmeriville:Cormicy:Onjon:Somme-Vesle:Villemaur-sur-Vanne:Asfeld:Mergey:Bréviandes:Fère-Champenoise:Marne:Argonne:Rethelois:Aube:Ardennes:Tardenois:
+AvisGC 657:b:$:adventice:bruche:puceron:puceron des épis de céréales:cécidomyie:tordeuse:puceron vert:puceron noir:puceron vert du pêcher:
+AvisGC 657:a:$:syrphe:coccinelle:chrysope:micro-hyménoptères:
+AvisGC 657:m:$:pourriture grise:anthracnose:rouille:mildiou:sclérotiniose:alternariose:septoriose:oïdium:helminthosporiose:fusariose:rouille naine de l'orge:rhynchosporiose sur dactyle:
+AvisGC 657:n:$:des fréquences relativement faibles d'attaque:un épi sur deux avec au moins 1 puceron:stades de sensibilité ne sont bien sûr pas encore atteints:0,04 cécidomyies par bouton:2 captures au piège:plus de 3 cécidomyies par boutons:seuil d'1 cécidomyie par bouton est atteint:jamais plus d'1 puceron par tige:sont loin d'être atteint:8% des pieds:1 pucerons pour 10 plantes:en dessous des seuils de nuisibilité:
+AvisGC 657:s:$:2 noeuds:sortie des barbes:3 noeuds:Défloraison:graines de taille définitive:gonflement:90% des épis sortis:f1:épiaison:mi-floraison:premières fleurs ouvertes:Boutons floraux protégés par les dernières feuilles:premières fleurs visibles:début floraison:Séparation des étages floraux:premières fleurs ouvertes:premières gousses:6 feuilles:12 feuilles
+AvisGC 657:p:s:$$:colza:Défloraison:1
+AvisGC 657:p:s:$$:colza:graines de taille définitive:1
+AvisGC 657:p:m:$$:colza:sclérotiniose:1
+AvisGC 657:p:m:n:$$:colza:sclérotiniose:fréquences relativement faibles d'attaque:1
+AvisGC 657:p:m:$$:colza:alternariose:1
+AvisGC 657:p:s:$$:blé:gonflement:1
+AvisGC 657:p:s:$$:blé:90% des épis sortis:1
+AvisGC 657:p:s:$$:blé:f1:1
+AvisGC 657:p:s:$$:blé:épiaison:1
+AvisGC 657:p:s:$$:blé:mi-floraison:1
+AvisGC 657:p:m:$$:blé:septoriose:1
+AvisGC 657:p:m:$$:blé:oïdium:1
+AvisGC 657:p:m:$$:blé:helminthosporiose:1
+AvisGC 657:p:m:$$:blé:fusariose:1
+AvisGC 657:p:b:$$:blé:puceron:1
+AvisGC 657:p:b:$$:blé:puceron des épis de céréales:1
+AvisGC 657:p:b:n:$$:blé:puceron:un épi sur deux avec au moins 1 puceron:1
+AvisGC 657:p:b:n:$$:blé:puceron des épis de céréales:un épi sur deux avec au moins 1 puceron:1
+AvisGC 657:p:s:$$:orge de printemps:2 noeuds:1
+AvisGC 657:p:s:$$:orge de printemps:sortie des barbes:1
+AvisGC 657:p:s:$$:orge de printemps:3 noeuds:1
+AvisGC 657:p:s:$$:orge de printemps:premières fleurs ouvertes:1
+AvisGC 657:p:m:$$:orge de printemps:rouille naine de l'orge:1
+AvisGC 657:p:m:$$:orge de printemps:oïdium:1
+AvisGC 657:p:m:$$:orge de printemps:rhynchosporiose sur dactyle:1
+AvisGC 657:p:m:$$:orge de printemps:helminthosporiose:1
+AvisGC 657:p:s:$$:pois protéagineux:Boutons floraux protégés par les dernières feuilles:1
+AvisGC 657:p:s:$$:pois protéagineux:premières fleurs visibles:1
+AvisGC 657:p:s:$$:pois protéagineux:début floraison:1
+AvisGC 657:p:b:$$:pois protéagineux:tordeuse:1
+AvisGC 657:p:b:$$:pois protéagineux:puceron vert:1
+AvisGC 657:p:b:n:$$:pois protéagineux:puceron vert:jamais plus d'1 puceron par tige:1
+AvisGC 657:p:b:n:$$:pois protéagineux:puceron vert:sont loin d'être atteint:1
+AvisGC 657:p:b:n:$$:pois protéagineux:tordeuse:stades de sensibilité ne sont bien sûr pas encore atteints:1
+AvisGC 657:p:b:$$:pois protéagineux:cécidomyie:1
+AvisGC 657:p:b:n:$$:pois protéagineux:cécidomyie:0,04 cécidomyies par bouton:1
+AvisGC 657:p:b:n:$$:pois protéagineux:cécidomyie:2 captures au piège:1
+AvisGC 657:p:b:n:$$:pois protéagineux:cécidomyie:plus de 3 cécidomyies par boutons:1
+AvisGC 657:p:b:n:$$:pois protéagineux:cécidomyie:1 cécidomyie par bouton:1
+AvisGC 657:p:m:$$:pois protéagineux:anthracnose:1
+AvisGC 657:p:m:$$:pois protéagineux:pourriture grise:1
+AvisGC 657:p:m:$$:pois protéagineux:rouille:1
+AvisGC 657:p:m:$$:pois protéagineux:mildiou:1
+AvisGC 657:p:s:$$:féverole:Séparation des étages floraux:1
+AvisGC 657:p:s:$$:féverole:premières fleurs ouvertes:1
+AvisGC 657:p:s:$$:féverole:premières gousses:1
+AvisGC 657:p:b:$$:féverole:puceron vert:1
+AvisGC 657:p:b:$$:féverole:puceron noir:1
+AvisGC 657:p:b:$$:féverole:bruche:1
+AvisGC 657:p:b:n:$$:féverole:bruche:8% des pieds:1
+AvisGC 657:p:m:$$:féverole:pourriture grise:1
+AvisGC 657:p:s:$$:betterave:6 feuilles:1
+AvisGC 657:p:s:$$:betterave:12 feuilles:1
+AvisGC 657:p:b:$$:betterave:puceron noir:1
+AvisGC 657:p:b:n:$$:betterave:puceron noir:1 pucerons pour 10 plantes:1
+AvisGC 657:p:b:$$:betterave:puceron vert:1
+AvisGC 657:p:s:$$:maïs:4 à 6 feuilles:1
+AvisGC 657:p:b:$$:maïs:adventice:1
+AvisGC 657:p:s:$$:tournesol:6 à 8 feuilles:1
+AvisGC 657:p:b:$$:tournesol:puceron:1
+AvisGC 657:p:b:n:$$:tournesol:puceron:en dessous des seuils de nuisibilité:1
 
-AvisGC_662:r:$:Champagne-Ardenne:
-AvisGC_662:nu:$:662:
-AvisGC_662:d:$:29.06.2005:
-AvisGC_662:f:$:aphicide:microgranulé insecticide:triazamate:triazole:
-AvisGC_662:p:$:céréales:betterave:maïs:féverole:proteagineux:blé:orge d'hiver:pomme de terre:pois de printemps:orge de printemps:
-AvisGC_662:v:$:Aubilly:Lavannes:Chalette-sur-Voire:Cormicy:Mergey:Le Thour:Pévy:Hallignicourt:Barby:Villemaur:Reims:Cernay:Asleld:Marne:Tardenois:Vallée de Marne:
-AvisGC_662:b:$:noctuelle:pyrale:thrips:puceron:puceron vert:puceron noir:Metopolophium dirrhodum:
-AvisGC_662:a:$:coccinelle:syrphe:coléoptères:cantharides:chrysope:
-AvisGC_662:m:$:jaunisse:rouille:alternariose:
-AvisGC_662:n:$:12 captures:présence le plus souvent inférieure à un épis sur deux porteurs de quelques pucerons:fin de stade de sensibilité:ne présentent pas de risque très élevé:10 % de la surface foliaire:en dessous du seuil d'intervention:seuil d'une plante sur deux:ne peuvent plus affecter la culture:
-AvisGC_662:s:$:laiteux-pâteux:pâteux:sénescence:10 à 18 feuilles:nymphose:20 feuilles:9 à 10 feuilles:chenille:5 à 7 étages de gousses:gousses pleines:premières gousses sèches:
-AvisGC_662:c:$:températures exceptionnellement élevées:
-AvisGC_662:p:c:$$:blé:températures exceptionnellement élevées:1
-AvisGC_662:p:c:$$:orge d'hiver:températures exceptionnellement élevées:1
-AvisGC_662:p:c:$$:proteagineux:températures exceptionnellement élevées:1
-AvisGC_662:p:b:$$:féverole:thrips:1
-AvisGC_662:p:s:$$:blé:laiteux-pâteux:1
-AvisGC_662:p:s:$$:orge de printemps:laiteux-pâteux:1
-AvisGC_662:p:s:$$:blé:pâteux:1
-AvisGC_662:p:s:$$:orge de printemps:pâteux:1
-AvisGC_662:p:s:$$:orge de printemps:sénescence:1:maïs:
-AvisGC_662:p:b:$$:céréales:puceron:1
-AvisGC_662:p:b:n:$$:céréales:puceron:présence le plus souvent inférieure à un épis sur deux porteurs de quelques pucerons:1
-AvisGC_662:p:b:$$:céréales:puceron:fin de stade de sensibilité:1
-AvisGC_662:p:s:$$:betterave:10 à 18 feuilles:1
-AvisGC_662:p:s:$$:betterave:20 feuilles:1
-AvisGC_662:p:b:$$:betterave:puceron:1
-AvisGC_662:p:b:$$:betterave:puceron vert:1
-AvisGC_662:p:m:$$:betterave:jaunisse:1
-AvisGC_662:p:b:$$:betterave:puceron:ne présentent pas de risque très élevé:1
-AvisGC_662:p:b:$$:betterave:puceron noir:1
-AvisGC_662:p:b:$$:betterave:noctuelle:1
-AvisGC_662:p:b:n:$$:betterave:noctuelle:10 % de la surface foliaire:1
-AvisGC_662:p:s:$$:maïs:9 à 10 feuilles:1
-AvisGC_662:p:b:$$:maïs:puceron:1
-AvisGC_662:p:b:n:$$:maïs:puceron:en dessous du seuil d'intervention:1
-AvisGC_662:p:b:$$:maïs:pyrale:1
-AvisGC_662:p:b:n:$$:maïs:pyrale:12 captures:1
-AvisGC_662:p:s:$$:féverole:5 à 7 étages de gousses:1
-AvisGC_662:p:b:$$:féverole:puceron:1
-AvisGC_662:p:b:n:$$:féverole:puceron:seuil d'une plante sur deux:1
-AvisGC_662:p:m:$$:féverole:alternariose:1
-AvisGC_662:p:m:$$:féverole:rouille:1
-AvisGC_662:p:s:$$:proteagineux:gousses pleines:1
-AvisGC_662:p:s:$$:proteagineux:premières gousses sèches:1
-AvisGC_662:p:b:$$:proteagineux:puceron vert:1
-AvisGC_662:p:b:n:$$:proteagineux:puceron vert:ne peuvent plus affecter la culture:1
+AvisGC 662:r:$:Champagne-Ardenne:
+AvisGC 662:nu:$:662:
+AvisGC 662:d:$:29.06.2005:
+AvisGC 662:f:$:aphicide:microgranulé insecticide:triazamate:triazole:
+AvisGC 662:p:$:céréales:betterave:maïs:féverole:proteagineux:blé:orge d'hiver:pomme de terre:pois de printemps:orge de printemps:
+AvisGC 662:v:$:Aubilly:Lavannes:Chalette-sur-Voire:Cormicy:Mergey:Le Thour:Pévy:Hallignicourt:Barby:Villemaur:Reims:Cernay:Asleld:Marne:Tardenois:Vallée de Marne:
+AvisGC 662:b:$:noctuelle:pyrale:thrips:puceron:puceron vert:puceron noir:Metopolophium dirrhodum:
+AvisGC 662:a:$:coccinelle:syrphe:coléoptères:cantharides:chrysope:
+AvisGC 662:m:$:jaunisse:rouille:alternariose:
+AvisGC 662:n:$:12 captures:présence le plus souvent inférieure à un épis sur deux porteurs de quelques pucerons:fin de stade de sensibilité:ne présentent pas de risque très élevé:10 % de la surface foliaire:en dessous du seuil d'intervention:seuil d'une plante sur deux:ne peuvent plus affecter la culture:
+AvisGC 662:s:$:laiteux-pâteux:pâteux:sénescence:10 à 18 feuilles:nymphose:20 feuilles:9 à 10 feuilles:chenille:5 à 7 étages de gousses:gousses pleines:premières gousses sèches:
+AvisGC 662:c:$:températures exceptionnellement élevées:
+AvisGC 662:p:c:$$:blé:températures exceptionnellement élevées:1
+AvisGC 662:p:c:$$:orge d'hiver:températures exceptionnellement élevées:1
+AvisGC 662:p:c:$$:proteagineux:températures exceptionnellement élevées:1
+AvisGC 662:p:b:$$:féverole:thrips:1
+AvisGC 662:p:s:$$:blé:laiteux-pâteux:1
+AvisGC 662:p:s:$$:orge de printemps:laiteux-pâteux:1
+AvisGC 662:p:s:$$:blé:pâteux:1
+AvisGC 662:p:s:$$:orge de printemps:pâteux:1
+AvisGC 662:p:s:$$:orge de printemps:sénescence:1:maïs:
+AvisGC 662:p:b:$$:céréales:puceron:1
+AvisGC 662:p:b:n:$$:céréales:puceron:présence le plus souvent inférieure à un épis sur deux porteurs de quelques pucerons:1
+AvisGC 662:p:b:$$:céréales:puceron:fin de stade de sensibilité:1
+AvisGC 662:p:s:$$:betterave:10 à 18 feuilles:1
+AvisGC 662:p:s:$$:betterave:20 feuilles:1
+AvisGC 662:p:b:$$:betterave:puceron:1
+AvisGC 662:p:b:$$:betterave:puceron vert:1
+AvisGC 662:p:m:$$:betterave:jaunisse:1
+AvisGC 662:p:b:$$:betterave:puceron:ne présentent pas de risque très élevé:1
+AvisGC 662:p:b:$$:betterave:puceron noir:1
+AvisGC 662:p:b:$$:betterave:noctuelle:1
+AvisGC 662:p:b:n:$$:betterave:noctuelle:10 % de la surface foliaire:1
+AvisGC 662:p:s:$$:maïs:9 à 10 feuilles:1
+AvisGC 662:p:b:$$:maïs:puceron:1
+AvisGC 662:p:b:n:$$:maïs:puceron:en dessous du seuil d'intervention:1
+AvisGC 662:p:b:$$:maïs:pyrale:1
+AvisGC 662:p:b:n:$$:maïs:pyrale:12 captures:1
+AvisGC 662:p:s:$$:féverole:5 à 7 étages de gousses:1
+AvisGC 662:p:b:$$:féverole:puceron:1
+AvisGC 662:p:b:n:$$:féverole:puceron:seuil d'une plante sur deux:1
+AvisGC 662:p:m:$$:féverole:alternariose:1
+AvisGC 662:p:m:$$:féverole:rouille:1
+AvisGC 662:p:s:$$:proteagineux:gousses pleines:1
+AvisGC 662:p:s:$$:proteagineux:premières gousses sèches:1
+AvisGC 662:p:b:$$:proteagineux:puceron vert:1
+AvisGC 662:p:b:n:$$:proteagineux:puceron vert:ne peuvent plus affecter la culture:1
 
-AvisGC_667:r:$:Champagne-Ardenne:
-AvisGC_667:nu:$:667:
-AvisGC_667:d:$:14.09.2005:
-AvisGC_667:p:$:betterave:colza:féverole:maïs:
-AvisGC_667:v:$:Issé:Le Thour:Poix-Terron:Montlaurent:Fère-Champenoise:Villers-aux-Noeuds:Marne:Haute-Marne:Ardennes:Marne:Tardenois:Argonne:Brie:Aube:Briennois:
-AvisGC_667:b:$:limace des jardins:pyrale:bruche:puceron:tenthrède de la rave:nématode:grosse altise du colza:altise:altise des crucifères:coléoptères:limace des jardins:limace des jardins:lépidoptères polyphages:chenille:
-AvisGC_667:m:$:cercosporose:oïdium:ramulariose de la betterave:rouille:jaunisse:rhizoctone:virus:mildiou:phoma:
-AvisGC_667:n:$:2 à 35% des plantes touchées:100% des plantes touchées:61 captures:nuisibilité directe par consommation du feuillage par les larves de tenthrèdes et les grosses altises est importante:30% à 50% de pieds:seuil de 30 captures d'adultes cumulées:jamais au seuil d'intervention:20% de plantes porteuses:
-AvisGC_667:s:$:levée:B4:B6:2 feuilles:entre 2 et 6 feuilles:
-AvisGC_667:z:$:à ne pas confondre avec:une enquête:la fiche:prospection:
-AvisGC_667:c:$:précipitations de ces derniers jours qui devraient être favorables:
-AvisGC_667:p:m:$$:betterave:cercosporose:1
-AvisGC_667:p:m:n:$$:betterave:cercosporose:35% des plantes touchées:1
-AvisGC_667:p:m:$$:betterave:oïdium:1
-AvisGC_667:p:m:n:$$:betterave:oïdium:100% des plantes touchées:1
-AvisGC_667:p:m:$$:betterave:ramulariose de la betterave:1
-AvisGC_667:p:m:$$:betterave:rouille:1
-AvisGC_667:p:m:$$:betterave:jaunisse:1
-AvisGC_667:p:m:$$:betterave:rhizoctone:1
-AvisGC_667:p:b:$$:betterave:nématode:1
-AvisGC_667:p:s:$$:colza:levée:1
-AvisGC_667:p:s:$$:colza:B4:1
-AvisGC_667:p:s:$$:colza:B6:1
-AvisGC_667:p:s:$$:colza:B6:1
-AvisGC_667:p:s:$$:colza:entre 2 et 6 feuilles:1
-AvisGC_667:p:b:$$:colza:tenthrède de la rave:1
-AvisGC_667:p:b:$$:colza:altise:1
-AvisGC_667:p:b:$$:colza:grosse altise du colza:1
-AvisGC_667:p:b:n:$$:colza:grosse altise du colza:61 captures:1
-AvisGC_667:p:b:$$:colza:altise des crucifères:1
-AvisGC_667:p:b:n:$$:colza:altise des crucifères:30% à 50% de pieds:1
-AvisGC_667:p:b:n:$$:colza:grosse altise du colza:seuil de 30 captures d'adultes cumulées:1
-AvisGC_667:p:b:$$:colza:coléoptères:1
-AvisGC_667:p:b:n:$$:colza:tenthrède de la rave:nuisibilité directe par consommation du feuillage par les larves de tenthrèdes et les grosses altises est importante:1
-AvisGC_667:p:b:n:$$:colza:grosse altise du colza:nuisibilité directe par consommation du feuillage par les larves de tenthrèdes et les grosses altises est importante:1
-AvisGC_667:p:b:$$:colza:puceron:1
-AvisGC_667:p:b:n:$$:colza:puceron:jamais au seuil d'intervention:1
-AvisGC_667:p:b:n:$$:colza:puceron:20% de plantes porteuses:1
-AvisGC_667:p:b:$$:colza:limace des jardins:1
-AvisGC_667:p:b:$$:colza:limace des jardins:1
-AvisGC_667:p:b:$$:colza:limace des jardins:1
-AvisGC_667:p:b:$$:colza:lépidoptères polyphages:1
-AvisGC_667:p:m:$$:colza:mildiou:1
-AvisGC_667:p:m:$$:colza:phoma:1
-AvisGC_667:p:b:$$:féverole:bruche:1
-AvisGC_667:p:b:$$:maïs:pyrale:1
+AvisGC 667:r:$:Champagne-Ardenne:
+AvisGC 667:nu:$:667:
+AvisGC 667:d:$:14.09.2005:
+AvisGC 667:p:$:betterave:colza:féverole:maïs:
+AvisGC 667:v:$:Issé:Le Thour:Poix-Terron:Montlaurent:Fère-Champenoise:Villers-aux-Noeuds:Marne:Haute-Marne:Ardennes:Marne:Tardenois:Argonne:Brie:Aube:Briennois:
+AvisGC 667:b:$:limace des jardins:pyrale:bruche:puceron:tenthrède de la rave:nématode:grosse altise du colza:altise:altise des crucifères:coléoptères:limace des jardins:limace des jardins:lépidoptères polyphages:chenille:
+AvisGC 667:m:$:cercosporose:oïdium:ramulariose de la betterave:rouille:jaunisse:rhizoctone:virus:mildiou:phoma:
+AvisGC 667:n:$:2 à 35% des plantes touchées:100% des plantes touchées:61 captures:nuisibilité directe par consommation du feuillage par les larves de tenthrèdes et les grosses altises est importante:30% à 50% de pieds:seuil de 30 captures d'adultes cumulées:jamais au seuil d'intervention:20% de plantes porteuses:
+AvisGC 667:s:$:levée:B4:B6:2 feuilles:entre 2 et 6 feuilles:
+AvisGC 667:z:$:à ne pas confondre avec:une enquête:la fiche:prospection:
+AvisGC 667:c:$:précipitations de ces derniers jours qui devraient être favorables:
+AvisGC 667:p:m:$$:betterave:cercosporose:1
+AvisGC 667:p:m:n:$$:betterave:cercosporose:35% des plantes touchées:1
+AvisGC 667:p:m:$$:betterave:oïdium:1
+AvisGC 667:p:m:n:$$:betterave:oïdium:100% des plantes touchées:1
+AvisGC 667:p:m:$$:betterave:ramulariose de la betterave:1
+AvisGC 667:p:m:$$:betterave:rouille:1
+AvisGC 667:p:m:$$:betterave:jaunisse:1
+AvisGC 667:p:m:$$:betterave:rhizoctone:1
+AvisGC 667:p:b:$$:betterave:nématode:1
+AvisGC 667:p:s:$$:colza:levée:1
+AvisGC 667:p:s:$$:colza:B4:1
+AvisGC 667:p:s:$$:colza:B6:1
+AvisGC 667:p:s:$$:colza:B6:1
+AvisGC 667:p:s:$$:colza:entre 2 et 6 feuilles:1
+AvisGC 667:p:b:$$:colza:tenthrède de la rave:1
+AvisGC 667:p:b:$$:colza:altise:1
+AvisGC 667:p:b:$$:colza:grosse altise du colza:1
+AvisGC 667:p:b:n:$$:colza:grosse altise du colza:61 captures:1
+AvisGC 667:p:b:$$:colza:altise des crucifères:1
+AvisGC 667:p:b:n:$$:colza:altise des crucifères:30% à 50% de pieds:1
+AvisGC 667:p:b:n:$$:colza:grosse altise du colza:seuil de 30 captures d'adultes cumulées:1
+AvisGC 667:p:b:$$:colza:coléoptères:1
+AvisGC 667:p:b:n:$$:colza:tenthrède de la rave:nuisibilité directe par consommation du feuillage par les larves de tenthrèdes et les grosses altises est importante:1
+AvisGC 667:p:b:n:$$:colza:grosse altise du colza:nuisibilité directe par consommation du feuillage par les larves de tenthrèdes et les grosses altises est importante:1
+AvisGC 667:p:b:$$:colza:puceron:1
+AvisGC 667:p:b:n:$$:colza:puceron:jamais au seuil d'intervention:1
+AvisGC 667:p:b:n:$$:colza:puceron:20% de plantes porteuses:1
+AvisGC 667:p:b:$$:colza:limace des jardins:1
+AvisGC 667:p:b:$$:colza:limace des jardins:1
+AvisGC 667:p:b:$$:colza:limace des jardins:1
+AvisGC 667:p:b:$$:colza:lépidoptères polyphages:1
+AvisGC 667:p:m:$$:colza:mildiou:1
+AvisGC 667:p:m:$$:colza:phoma:1
+AvisGC 667:p:b:$$:féverole:bruche:1
+AvisGC 667:p:b:$$:maïs:pyrale:1
 
-AvisGC_672:r:$:Champagne-Ardenne:
-AvisGC_672:nu:$:672:
-AvisGC_672:d:$:19.10.2005:
-AvisGC_672:v:$:Barrois:Rethelois:Tardenois:Marne:Ardennes:Chaourçois:forêt d'Orient:Aube:
-AvisGC_672:f:$:chlorophacinone:
-AvisGC_672:p:$:colza:céréales:maïs:luzerne:orge:blé:
-AvisGC_672:b:$:campagnol des champs:puceron:charançon du bourgeon terminal:zabre des céréales:grosse altise du colza:charançon:baris:méligèthe:chenilles défoliatrices:cicadelle:cécidomyie:micro-hyménoptères:mouche mineuse:bibion:pyrale:rongeur:puceron du merisier à grappes:
-AvisGC_672:m:$:jaunisse nanisante de l'orge:fusariose:
-AvisGC_672:n:$:dégâts parfois déjà bien visibles:<300 campagnols par hectares:
-AvisGC_672:s:$:5 feuilles:décollement de la tige:6 à 8 feuilles:germination:2 feuilles:1 feuille:2ème feuille enroulée:
-AvisGC_672:z:$:pots d'orge:
-AvisGC_672:p:b:$$:céréales:zabre des céréales:1
-AvisGC_672:p:b:$$:céréales:puceron:1
-AvisGC_672:p:b:$$:colza:charançon du bourgeon terminal:1
-AvisGC_672:p:b:$$:luzerne:campagnol des champs:1
-AvisGC_672:p:s:$$:colza:5 feuilles:1
-AvisGC_672:p:s:$$:colza:décollement de la tige:1
-AvisGC_672:p:b:$$:colza:grosse altise du colza:1
-AvisGC_672:p:b:$$:colza:charançon:1
-AvisGC_672:p:b:$$:colza:baris:1
-AvisGC_672:p:b:$$:colza:méligèthe:1
-AvisGC_672:p:b:$$:colza:mouche:1
-AvisGC_672:p:b:$$:colza:chenilles défoliatrices:1
-AvisGC_672:p:b:$$:colza:puceron:1
-AvisGC_672:p:s:$$:céréales:germination:1
-AvisGC_672:p:s:$$:céréales:2 feuilles:1
-AvisGC_672:p:s:$$:céréales:1 feuille:1
-AvisGC_672:p:s:$$:céréales:2ème feuille enroulée:1
-AvisGC_672:p:m:$$:céréales:jaunisse nanisante de l'orge:1
-AvisGC_672:p:b:$$:orge:puceron:1
-AvisGC_672:p:b:$$:céréales:cicadelle:1
-AvisGC_672:p:b:$$:céréales:cécidomyie:1
-AvisGC_672:p:b:$$:céréales:micro-hyménoptères:1
-AvisGC_672:p:b:$$:céréales:mouche mineuse:1
-AvisGC_672:p:b:$$:céréales:bibion:1
-AvisGC_672:p:b:$$:céréales:cécidomyie:1
-AvisGC_672:p:b:$$:maïs:pyrale:1
-AvisGC_672:p:m:$$:maïs:fusariose:1
-AvisGC_672:p:b:n:$$:luzerne:campagnol des champs:dégâts parfois déjà bien visibles:1
-AvisGC_672:p:b:$$:luzerne:rongeur:1
-AvisGC_672:p:b:n:$$:luzerne:campagnol des champs:<300 campagnols par hectares:1
+AvisGC 672:r:$:Champagne-Ardenne:
+AvisGC 672:nu:$:672:
+AvisGC 672:d:$:19.10.2005:
+AvisGC 672:v:$:Barrois:Rethelois:Tardenois:Marne:Ardennes:Chaourçois:forêt d'Orient:Aube:
+AvisGC 672:f:$:chlorophacinone:
+AvisGC 672:p:$:colza:céréales:maïs:luzerne:orge:blé:
+AvisGC 672:b:$:campagnol des champs:puceron:charançon du bourgeon terminal:zabre des céréales:grosse altise du colza:charançon:baris:méligèthe:chenilles défoliatrices:cicadelle:cécidomyie:micro-hyménoptères:mouche mineuse:bibion:pyrale:rongeur:puceron du merisier à grappes:
+AvisGC 672:m:$:jaunisse nanisante de l'orge:fusariose:
+AvisGC 672:n:$:dégâts parfois déjà bien visibles:<300 campagnols par hectares:
+AvisGC 672:s:$:5 feuilles:décollement de la tige:6 à 8 feuilles:germination:2 feuilles:1 feuille:2ème feuille enroulée:
+AvisGC 672:z:$:pots d'orge:
+AvisGC 672:p:b:$$:céréales:zabre des céréales:1
+AvisGC 672:p:b:$$:céréales:puceron:1
+AvisGC 672:p:b:$$:colza:charançon du bourgeon terminal:1
+AvisGC 672:p:b:$$:luzerne:campagnol des champs:1
+AvisGC 672:p:s:$$:colza:5 feuilles:1
+AvisGC 672:p:s:$$:colza:décollement de la tige:1
+AvisGC 672:p:b:$$:colza:grosse altise du colza:1
+AvisGC 672:p:b:$$:colza:charançon:1
+AvisGC 672:p:b:$$:colza:baris:1
+AvisGC 672:p:b:$$:colza:méligèthe:1
+AvisGC 672:p:b:$$:colza:mouche:1
+AvisGC 672:p:b:$$:colza:chenilles défoliatrices:1
+AvisGC 672:p:b:$$:colza:puceron:1
+AvisGC 672:p:s:$$:céréales:germination:1
+AvisGC 672:p:s:$$:céréales:2 feuilles:1
+AvisGC 672:p:s:$$:céréales:1 feuille:1
+AvisGC 672:p:s:$$:céréales:2ème feuille enroulée:1
+AvisGC 672:p:m:$$:céréales:jaunisse nanisante de l'orge:1
+AvisGC 672:p:b:$$:orge:puceron:1
+AvisGC 672:p:b:$$:céréales:cicadelle:1
+AvisGC 672:p:b:$$:céréales:cécidomyie:1
+AvisGC 672:p:b:$$:céréales:micro-hyménoptères:1
+AvisGC 672:p:b:$$:céréales:mouche mineuse:1
+AvisGC 672:p:b:$$:céréales:bibion:1
+AvisGC 672:p:b:$$:céréales:cécidomyie:1
+AvisGC 672:p:b:$$:maïs:pyrale:1
+AvisGC 672:p:m:$$:maïs:fusariose:1
+AvisGC 672:p:b:n:$$:luzerne:campagnol des champs:dégâts parfois déjà bien visibles:1
+AvisGC 672:p:b:$$:luzerne:rongeur:1
+AvisGC 672:p:b:n:$$:luzerne:campagnol des champs:<300 campagnols par hectares:1
 
-AvisGC_677:r:$:Champagne-Ardenne:
-AvisGC_677:nu:$:677:
-AvisGC_677:d:$:08.03.2006:
-AvisGC_677:p:$:maïs:céréales:
-AvisGC_677:v:$:Reims:Rethelois:Tardenois:Est du Perthois:Haute-Marne:
-AvisGC_677:b:$:pyrale du maïs:lépidoptères:pyrale:
-AvisGC_677:n:$:0 à 0,5 larve/pieds:0,5 à 0,8 larve/pieds:Plus de 0,8 larve/pied:
-AvisGC_677:s:$:nymphoses:
-AvisGC_677:p:b:$$:maïs:pyrale du maïs:1
+AvisGC 677:r:$:Champagne-Ardenne:
+AvisGC 677:nu:$:677:
+AvisGC 677:d:$:08.03.2006:
+AvisGC 677:p:$:maïs:céréales:
+AvisGC 677:v:$:Reims:Rethelois:Tardenois:Est du Perthois:Haute-Marne:
+AvisGC 677:b:$:pyrale du maïs:lépidoptères:pyrale:
+AvisGC 677:n:$:0 à 0,5 larve/pieds:0,5 à 0,8 larve/pieds:Plus de 0,8 larve/pied:
+AvisGC 677:s:$:nymphoses:
+AvisGC 677:p:b:$$:maïs:pyrale du maïs:1
 
-AvisGC_682:r:$:Champagne-Ardenne:
-AvisGC_682:nu:$:682:
-AvisGC_682:d:$:12.04.2006:
-AvisGC_682:f:$:tau-fluvalinate:prochloraze:cyprodinil:
-AvisGC_682:p:$:colza:céréales:proteagineux:orge d'hiver:blé:orge de printemps:betterave:pois protéagineux:févreroles:
-AvisGC_682:b:$:charançon de la tige du colza:méligèthe:mouche jaune:mouche grise:thrips:sitone du pois:charançon:
-AvisGC_682:m:$:oïdium:septoriose:piétin-verse:fusariose des céréales:helminthosporiose:
-AvisGC_682:n:$:50 à 80% de pieds avec piqûres:très inférieures aux seuils d'intervention:timidement:risque augmente assez nettement:symptômes ont moins évolués:seuil de 1 thrips par pied:
-AvisGC_682:s:$:D1 à E:Tige de 10 à 20 cm:D2:tige 15 cm:tige 8-12 cm:floraison:Epi 0,5 cm à 1 noeud:Epi 1 à 2 cm:Epi 1cm à 1 noeud:1 à 2 F:levées:2 noeuds:entre 1 et 2 noeuds:
-AvisGC_682:z:$:absentes:
-AvisGC_682:c:$:températures du mois de mars ont quant à elles été globalement inférieures de 1°C par rapport à la normale:précipitations:conditions climatiques plus fraîches:
-AvisGC_682:p:b:$$:colza:charançon de la tige du colza:1
-AvisGC_682:p:b:$$:colza:méligèthe:1
-AvisGC_682:p:s:$$:colza:D1 à E:1
-AvisGC_682:p:s:$$:colza:Tige de 10 à 20 cm:1
-AvisGC_682:p:s:$$:colza:D2:1
-AvisGC_682:p:s:$$:colza:tige 15 cm:1
-AvisGC_682:p:s:$$:colza:tige 8-12 cm:1
-AvisGC_682:p:s:$$:colza:floraison:1
-AvisGC_682:p:s:n:$$:colza:charançon de la tige du colza:50 à 80% de pieds avec piqûres:1
-AvisGC_682:p:b:n:$$:colza:méligèthe:très inférieures aux seuils d'intervention:1
-AvisGC_682:p:s:$$:blé:Epi 0,5 cm à 1 noeud:1
-AvisGC_682:p:s:$$:blé:Epi 1 à 2 cm:1
-AvisGC_682:p:s:$$:blé:levées:1
-AvisGC_682:p:s:$$:blé:2 noeuds:1
-AvisGC_682:p:s:$$:orge d'hiver:Epi 1cm à 1 noeud:1
-AvisGC_682:p:s:$$:orge d'hiver:entre 1 et 2 noeuds:1
-AvisGC_682:p:s:$$:orge de printemps:1 à 2 F:1
-AvisGC_682:p:b:$$:blé:mouche jaune:1
-AvisGC_682:p:b:$$:blé:mouche grise:1
-AvisGC_682:p:m:$$:blé:fusariose des céréales:1
-AvisGC_682:p:m:$$:blé:oïdium:1
-AvisGC_682:p:m:n:$$:blé:oïdium:timidement:1
-AvisGC_682:p:m:$$:blé:septoriose:1
-AvisGC_682:p:m:n:$$:blé:septoriose:risque augmente assez nettement:1
-AvisGC_682:p:m:$$:orge d'hiver:helminthosporiose:1
-AvisGC_682:p:m:n:$$:blé:septoriose:symptômes ont moins évolués:1
-AvisGC_682:p:s:$$:pois protéagineux:levées:1
-AvisGC_682:p:s:$$:févreroles:levées:1
-AvisGC_682:p:b:$$:pois protéagineux:thrips:1
-AvisGC_682:p:b:$$:proteagineux:thrips:1
-AvisGC_682:p:b:$$:proteagineux:sitone du pois:1
+AvisGC 682:r:$:Champagne-Ardenne:
+AvisGC 682:nu:$:682:
+AvisGC 682:d:$:12.04.2006:
+AvisGC 682:f:$:tau-fluvalinate:prochloraze:cyprodinil:
+AvisGC 682:p:$:colza:céréales:proteagineux:orge d'hiver:blé:orge de printemps:betterave:pois protéagineux:févreroles:
+AvisGC 682:b:$:charançon de la tige du colza:méligèthe:mouche jaune:mouche grise:thrips:sitone du pois:charançon:
+AvisGC 682:m:$:oïdium:septoriose:piétin-verse:fusariose des céréales:helminthosporiose:
+AvisGC 682:n:$:50 à 80% de pieds avec piqûres:très inférieures aux seuils d'intervention:timidement:risque augmente assez nettement:symptômes ont moins évolués:seuil de 1 thrips par pied:
+AvisGC 682:s:$:D1 à E:Tige de 10 à 20 cm:D2:tige 15 cm:tige 8-12 cm:floraison:Epi 0,5 cm à 1 noeud:Epi 1 à 2 cm:Epi 1cm à 1 noeud:1 à 2 F:levées:2 noeuds:entre 1 et 2 noeuds:
+AvisGC 682:z:$:absentes:
+AvisGC 682:c:$:températures du mois de mars ont quant à elles été globalement inférieures de 1°C par rapport à la normale:précipitations:conditions climatiques plus fraîches:
+AvisGC 682:p:b:$$:colza:charançon de la tige du colza:1
+AvisGC 682:p:b:$$:colza:méligèthe:1
+AvisGC 682:p:s:$$:colza:D1 à E:1
+AvisGC 682:p:s:$$:colza:Tige de 10 à 20 cm:1
+AvisGC 682:p:s:$$:colza:D2:1
+AvisGC 682:p:s:$$:colza:tige 15 cm:1
+AvisGC 682:p:s:$$:colza:tige 8-12 cm:1
+AvisGC 682:p:s:$$:colza:floraison:1
+AvisGC 682:p:s:n:$$:colza:charançon de la tige du colza:50 à 80% de pieds avec piqûres:1
+AvisGC 682:p:b:n:$$:colza:méligèthe:très inférieures aux seuils d'intervention:1
+AvisGC 682:p:s:$$:blé:Epi 0,5 cm à 1 noeud:1
+AvisGC 682:p:s:$$:blé:Epi 1 à 2 cm:1
+AvisGC 682:p:s:$$:blé:levées:1
+AvisGC 682:p:s:$$:blé:2 noeuds:1
+AvisGC 682:p:s:$$:orge d'hiver:Epi 1cm à 1 noeud:1
+AvisGC 682:p:s:$$:orge d'hiver:entre 1 et 2 noeuds:1
+AvisGC 682:p:s:$$:orge de printemps:1 à 2 F:1
+AvisGC 682:p:b:$$:blé:mouche jaune:1
+AvisGC 682:p:b:$$:blé:mouche grise:1
+AvisGC 682:p:m:$$:blé:fusariose des céréales:1
+AvisGC 682:p:m:$$:blé:oïdium:1
+AvisGC 682:p:m:n:$$:blé:oïdium:timidement:1
+AvisGC 682:p:m:$$:blé:septoriose:1
+AvisGC 682:p:m:n:$$:blé:septoriose:risque augmente assez nettement:1
+AvisGC 682:p:m:$$:orge d'hiver:helminthosporiose:1
+AvisGC 682:p:m:n:$$:blé:septoriose:symptômes ont moins évolués:1
+AvisGC 682:p:s:$$:pois protéagineux:levées:1
+AvisGC 682:p:s:$$:févreroles:levées:1
+AvisGC 682:p:b:$$:pois protéagineux:thrips:1
+AvisGC 682:p:b:$$:proteagineux:thrips:1
+AvisGC 682:p:b:$$:proteagineux:sitone du pois:1
 
-AvisGC_687:r:$:Champagne-Ardenne:
-AvisGC_687:nu:$:687:
-AvisGC_687:d:$:17.05.2006:
-AvisGC_687:f:$:triazoles:boscalid:chlorothalonil:triazamate:triazamate:pirimicarb:époxiconazole:
-AvisGC_687:p:$:colza:céréales:pois protéagineux:blé:pois de printemps:féverole:maïs:tournesol:betterave:blé:orge:orge d'hiver:orge de printemps:céréales:pois d’hiver:
-AvisGC_687:v:$:Lavanne:Châlons:Rethel:Cormicy:Taissy:Prosnes:Saint-Pouange:Eaux-Puiseaux:Barby:Cormicy:Le Thour:MontLaurent:Marne:
-AvisGC_687:b:$:cécidomyie:puceron:charançon des siliques de colza:thrips:puceron noir:limace des jardins:tipule des prairies:pégomyie de la betterave:tordeuse:tordeuse des céréales:bibion:charançon:cécidomyie orangée du blé:
-AvisGC_687:a:$:coccinelle:cantharides:micro-hyménoptères:bibion:
-AvisGC_687:m:$:septoriose:oïdium:anthracnose:sclérotiniose:alternariose:rouille naine de l'orge:helminthosporiose:
-AvisGC_687:n:$:seuil reste atteint:seuil d'un charançon pour 2 plantes:trop tard pour intervenir:44% des pieds:50% de plantes porteuses:loin d'être atteints:1 plante sur 10 porteuse:28% de pieds porteurs:10% de plantes:présence importante d'autres pontes:fort:feuillage reste globalement assez sains:
-AvisGC_687:s:$:G2 à G4:défloraison:G4:défloraison:g1:entre 6 et 8 feuilles:début floraison:7 feuilles:8 à 10 feuilles:3 à 5 feuilles:2 à 6 feuilles:20 feuilles:fermeture des rangs de la betterave:Sortie de la dernière feuille à début éclatement de la gaine:F5:f4:F3:f2:floraison:dernière feuille étalée:gonflement:Entre épi 1 cm et 2 noeuds:1 noeud:f1:
-AvisGC_687:z:$:comme:prédatrices de:
-AvisGC_687:c:$:abîmés par les fortes pluies:conditions climatiques actuelles sont cependant optimales:
-AvisGC_687:p:s:$$:colza:G2 à G4:1
-AvisGC_687:p:s:$$:colza:g1:1
-AvisGC_687:p:b:$$:colza:charançon des siliques de colza:1
-AvisGC_687:p:b:n:$$:colza:charançon des siliques de colza:seuil reste atteint:1
-AvisGC_687:p:b:n:$$:colza:charançon des siliques de colza:seuil d'un charançon pour 2 plantes:1
-AvisGC_687:p:b:$$:colza:cécidomyie:1
-AvisGC_687:p:m:$$:colza:alternariose:1
-AvisGC_687:p:m:n:$$:colza:sclérotiniose:trop tard pour intervenir:1
-AvisGC_687:p:b:$$:pois protéagineux:cécidomyie:1
-AvisGC_687:p:b:$$:pois protéagineux:puceron:1
-AvisGC_687:p:b:$$:pois protéagineux:thrips:1
-AvisGC_687:p:s:$$:pois protéagineux:entre 6 et 8 feuilles:1
-AvisGC_687:p:s:$$:pois protéagineux:début floraison:1
-AvisGC_687:p:s:$$:pois protéagineux:7 feuilles:1
-AvisGC_687:p:m:$$:pois de printemps:anthracnose:1
-AvisGC_687:p:s:$$:féverole:7 feuilles:1
-AvisGC_687:p:b:$$:féverole:puceron noir:1
-AvisGC_687:p:b:n:$$:féverole:puceron noir:50% de plantes porteuses:1
-AvisGC_687:p:s:$$:maïs:3 à 5 feuilles:1
-AvisGC_687:p:s:$$:tournesol:2 à 6 feuilles:1
-AvisGC_687:p:s:n:$$:maïs:3 à 5 feuilles:loin d'être atteints:1
-AvisGC_687:p:s:n:$$:tournesol:2 à 6 feuilles:loin d'être atteints:1
-AvisGC_687:p:s:$$:betterave:2 à 6 feuilles:1
-AvisGC_687:p:s:$$:betterave:20 feuilles:1
-AvisGC_687:p:b:$$:betterave:puceron:1
-AvisGC_687:p:b:n:$$:betterave:puceron:1 plante sur 10 porteuse:1
-AvisGC_687:p:b:n:$$:betterave:puceron:28% de pieds porteurs:1
-AvisGC_687:p:b:n:$$:betterave:puceron:10% de plantes:1
-AvisGC_687:p:b:$$:betterave:limace des jardins:1
-AvisGC_687:p:b:$$:betterave:tipule des prairies:1
-AvisGC_687:p:b:$$:betterave:pégomyie de la betterave:1
-AvisGC_687:p:b:n:$$:betterave:pégomyie de la betterave:présence importante d'autres pontes:1
-AvisGC_687:p:s:$$:blé:Sortie de la dernière feuille à début éclatement de la gaine:1
-AvisGC_687:p:s:$$:blé:F5:1
-AvisGC_687:p:s:$$:blé:f4:1
-AvisGC_687:p:s:$$:blé:F3:1
-AvisGC_687:p:s:$$:blé:f2:1
-AvisGC_687:p:s:$$:blé:floraison:1
-AvisGC_687:p:s:$$:blé:gonflement:1
-AvisGC_687:p:s:$$:blé:dernière feuille étalée:1
-AvisGC_687:p:m:$$:blé:septoriose:1
-AvisGC_687:p:m:n:$$:blé:septoriose:fort:1
-AvisGC_687:p:b:$$:blé:tordeuse:1
-AvisGC_687:p:b:$$:céréales:tordeuse:1
-AvisGC_687:p:b:n:$$:céréales:tordeuse:10% de talles porteurs:1
-AvisGC_687:p:b:n:$$:blé:tordeuse:10% de talles porteurs:1
-AvisGC_687:p:s:$$:orge d'hiver:Floraison:1
-AvisGC_687:p:s:$$:orge d'hiver:f1:1
-AvisGC_687:p:m:$$:orge d'hiver:helminthosporiose:1
-AvisGC_687:p:m:n:$$:orge d'hiver:helminthosporiose:feuillage reste globalement assez sains:1
-AvisGC_687:p:s:$$:orge de printemps:Entre épi 1 cm et 2 noeuds:1
-AvisGC_687:p:s:$$:orge de printemps:1 noeud:1
-AvisGC_687:p:m:$$:orge de printemps:oïdium:1
-AvisGC_687:p:m:$$:orge de printemps:rouille naine de l'orge:1
+AvisGC 687:r:$:Champagne-Ardenne:
+AvisGC 687:nu:$:687:
+AvisGC 687:d:$:17.05.2006:
+AvisGC 687:f:$:triazoles:boscalid:chlorothalonil:triazamate:triazamate:pirimicarb:époxiconazole:
+AvisGC 687:p:$:colza:céréales:pois protéagineux:blé:pois de printemps:féverole:maïs:tournesol:betterave:blé:orge:orge d'hiver:orge de printemps:céréales:pois d’hiver:
+AvisGC 687:v:$:Lavanne:Châlons:Rethel:Cormicy:Taissy:Prosnes:Saint-Pouange:Eaux-Puiseaux:Barby:Cormicy:Le Thour:MontLaurent:Marne:
+AvisGC 687:b:$:cécidomyie:puceron:charançon des siliques de colza:thrips:puceron noir:limace des jardins:tipule des prairies:pégomyie de la betterave:tordeuse:tordeuse des céréales:bibion:charançon:cécidomyie orangée du blé:
+AvisGC 687:a:$:coccinelle:cantharides:micro-hyménoptères:bibion:
+AvisGC 687:m:$:septoriose:oïdium:anthracnose:sclérotiniose:alternariose:rouille naine de l'orge:helminthosporiose:
+AvisGC 687:n:$:seuil reste atteint:seuil d'un charançon pour 2 plantes:trop tard pour intervenir:44% des pieds:50% de plantes porteuses:loin d'être atteints:1 plante sur 10 porteuse:28% de pieds porteurs:10% de plantes:présence importante d'autres pontes:fort:feuillage reste globalement assez sains:
+AvisGC 687:s:$:G2 à G4:défloraison:G4:défloraison:g1:entre 6 et 8 feuilles:début floraison:7 feuilles:8 à 10 feuilles:3 à 5 feuilles:2 à 6 feuilles:20 feuilles:fermeture des rangs de la betterave:Sortie de la dernière feuille à début éclatement de la gaine:F5:f4:F3:f2:floraison:dernière feuille étalée:gonflement:Entre épi 1 cm et 2 noeuds:1 noeud:f1:
+AvisGC 687:z:$:comme:prédatrices de:
+AvisGC 687:c:$:abîmés par les fortes pluies:conditions climatiques actuelles sont cependant optimales:
+AvisGC 687:p:s:$$:colza:G2 à G4:1
+AvisGC 687:p:s:$$:colza:g1:1
+AvisGC 687:p:b:$$:colza:charançon des siliques de colza:1
+AvisGC 687:p:b:n:$$:colza:charançon des siliques de colza:seuil reste atteint:1
+AvisGC 687:p:b:n:$$:colza:charançon des siliques de colza:seuil d'un charançon pour 2 plantes:1
+AvisGC 687:p:b:$$:colza:cécidomyie:1
+AvisGC 687:p:m:$$:colza:alternariose:1
+AvisGC 687:p:m:n:$$:colza:sclérotiniose:trop tard pour intervenir:1
+AvisGC 687:p:b:$$:pois protéagineux:cécidomyie:1
+AvisGC 687:p:b:$$:pois protéagineux:puceron:1
+AvisGC 687:p:b:$$:pois protéagineux:thrips:1
+AvisGC 687:p:s:$$:pois protéagineux:entre 6 et 8 feuilles:1
+AvisGC 687:p:s:$$:pois protéagineux:début floraison:1
+AvisGC 687:p:s:$$:pois protéagineux:7 feuilles:1
+AvisGC 687:p:m:$$:pois de printemps:anthracnose:1
+AvisGC 687:p:s:$$:féverole:7 feuilles:1
+AvisGC 687:p:b:$$:féverole:puceron noir:1
+AvisGC 687:p:b:n:$$:féverole:puceron noir:50% de plantes porteuses:1
+AvisGC 687:p:s:$$:maïs:3 à 5 feuilles:1
+AvisGC 687:p:s:$$:tournesol:2 à 6 feuilles:1
+AvisGC 687:p:s:n:$$:maïs:3 à 5 feuilles:loin d'être atteints:1
+AvisGC 687:p:s:n:$$:tournesol:2 à 6 feuilles:loin d'être atteints:1
+AvisGC 687:p:s:$$:betterave:2 à 6 feuilles:1
+AvisGC 687:p:s:$$:betterave:20 feuilles:1
+AvisGC 687:p:b:$$:betterave:puceron:1
+AvisGC 687:p:b:n:$$:betterave:puceron:1 plante sur 10 porteuse:1
+AvisGC 687:p:b:n:$$:betterave:puceron:28% de pieds porteurs:1
+AvisGC 687:p:b:n:$$:betterave:puceron:10% de plantes:1
+AvisGC 687:p:b:$$:betterave:limace des jardins:1
+AvisGC 687:p:b:$$:betterave:tipule des prairies:1
+AvisGC 687:p:b:$$:betterave:pégomyie de la betterave:1
+AvisGC 687:p:b:n:$$:betterave:pégomyie de la betterave:présence importante d'autres pontes:1
+AvisGC 687:p:s:$$:blé:Sortie de la dernière feuille à début éclatement de la gaine:1
+AvisGC 687:p:s:$$:blé:F5:1
+AvisGC 687:p:s:$$:blé:f4:1
+AvisGC 687:p:s:$$:blé:F3:1
+AvisGC 687:p:s:$$:blé:f2:1
+AvisGC 687:p:s:$$:blé:floraison:1
+AvisGC 687:p:s:$$:blé:gonflement:1
+AvisGC 687:p:s:$$:blé:dernière feuille étalée:1
+AvisGC 687:p:m:$$:blé:septoriose:1
+AvisGC 687:p:m:n:$$:blé:septoriose:fort:1
+AvisGC 687:p:b:$$:blé:tordeuse:1
+AvisGC 687:p:b:$$:céréales:tordeuse:1
+AvisGC 687:p:b:n:$$:céréales:tordeuse:10% de talles porteurs:1
+AvisGC 687:p:b:n:$$:blé:tordeuse:10% de talles porteurs:1
+AvisGC 687:p:s:$$:orge d'hiver:Floraison:1
+AvisGC 687:p:s:$$:orge d'hiver:f1:1
+AvisGC 687:p:m:$$:orge d'hiver:helminthosporiose:1
+AvisGC 687:p:m:n:$$:orge d'hiver:helminthosporiose:feuillage reste globalement assez sains:1
+AvisGC 687:p:s:$$:orge de printemps:Entre épi 1 cm et 2 noeuds:1
+AvisGC 687:p:s:$$:orge de printemps:1 noeud:1
+AvisGC 687:p:m:$$:orge de printemps:oïdium:1
+AvisGC 687:p:m:$$:orge de printemps:rouille naine de l'orge:1
 
-AvisGC_692:r:$:Champagne-Ardenne:
-AvisGC_692:nu:$:692:
-AvisGC_692:d:$:21.06.2006:
-AvisGC_692:f:$:pyréthrinoïde:chlorothalonil:triazole:amistar:
-AvisGC_692:p:$:colza:proteagineux:céréales:maïs:betterave:tournesol:pois protéagineux:féverole:blé:amandier:
-AvisGC_692:v:$:Reims-Courcy:Lavannes:Somme-Vesle:Mergey:Les Maupas:Marne:Aube:Rethelois:Perthois:Aube:sud de la Marne:
-AvisGC_692:b:$:bruche:tordeuse:pyrale:puceron:pégomyie de la betterave:puceron cendré:cécidomyie:pyrale:noctuelle:criocère:chenille:tordeuse des céréales:tordeuse du pois:
-AvisGC_692:a:$:coccinelle:syrphe:trichogramme:
-AvisGC_692:m:$:rouille:alternariose:oïdium:mildiou:pourriture grise:rouille:Epis blancs:piétin échaudage:piétin-verse:septoriose:rouille brune du blé:fusariose:
-AvisGC_692:n:$:stade de fin de sensibilité de la culture est maintenant atteint:nuisibilité sera faible à nulle:très faible:100 pucerons par tige:100 et 300 captures:400 captures cumulées:évolution rapide de la maladie:fin de sensibilité:défoliations sont parfois déjà observées:rares:
-AvisGC_692:s:$:G4:Bouton étoilé:de 2 à 6 cm:Gousses pleines sur le 1er étage:remplissage des gousses sur le deuxième:fin floraison:gousses plates:5 à 8 étages de gousses:Amande aqueuse à grain pâteux mou:Grain laiteux:dégâts sont à présent bien visibles:f2:f1:7 à 11 feuilles:8-10 feuilles:20 à 50% de couverture:recouvrent maintenant le sol:
-AvisGC_692:z:$:absents des cultures:absente:
-AvisGC_692:c:$:souffrent de la sécheresse:
-AvisGC_692:p:s:$$:colza:G4:1
-AvisGC_692:p:s:$$:colza:puceron cendré:1
-AvisGC_692:p:m:$$:colza:alternariose:1
-AvisGC_692:p:m:$$:colza:oïdium:1
-AvisGC_692:p:s:$$:colza:Bouton étoilé:1
-AvisGC_692:p:b:$$:colza:puceron:1
-AvisGC_692:p:b:n:$$:colza:puceron:fin de sensibilité de la culture est maintenant atteint:1
-AvisGC_692:p:s:$$:pois protéagineux:Gousses pleines sur le 1er étage:1
-AvisGC_692:p:s:$$:pois protéagineux:remplissage des gousses sur le deuxième:1
-AvisGC_692:p:s:$$:pois protéagineux:gousses plates:1
-AvisGC_692:p:b:$$:pois protéagineux:cécidomyie:1
-AvisGC_692:p:b:$$:pois protéagineux:tordeuse:1
-AvisGC_692:p:b:$$:pois protéagineux:puceron:1
-AvisGC_692:p:m:$$:pois protéagineux:rouille:1
-AvisGC_692:p:b:n:$$:pois protéagineux:cécidomyie:nuisibilité sera faible à nulle:1
-AvisGC_692:p:b:n:$$:pois protéagineux:puceron:très faible:1
-AvisGC_692:p:b:n:$$:pois protéagineux:puceron:100 pucerons par tige:1
-AvisGC_692:p:s:$$:pois protéagineux:fin floraison:1
-AvisGC_692:p:b:n:$$:pois protéagineux:tordeuse:100 et 300 captures:1
-AvisGC_692:p:b:n:$$:pois protéagineux:tordeuse:400 captures cumulées:1
-AvisGC_692:p:m:n:$$:pois protéagineux:rouille:évolution rapide de la maladie:1
-AvisGC_692:p:s:$$:féverole:5 à 8 étages de gousses:1
-AvisGC_692:p:b:$$:féverole:puceron:1
-AvisGC_692:p:b:$$:féverole:bruche:1
-AvisGC_692:p:m:$$:féverole:mildiou:1
-AvisGC_692:p:m:$$:féverole:pourriture grise:1
-AvisGC_692:p:m:$$:féverole:rouille:1
-AvisGC_692:p:s:$$:blé:Amande aqueuse à grain pâteux mou:1
-AvisGC_692:p:s:$$:blé:Grain laiteux:1
-AvisGC_692:p:s:$$:blé:f2:1
-AvisGC_692:p:s:$$:blé:f1:1
-AvisGC_692:p:b:$$:blé:puceron:1
-AvisGC_692:p:b:$$:blé:criocère:1
-AvisGC_692:p:b:$$:blé:tordeuse:1
-AvisGC_692:p:b:n:$$:blé:tordeuse:dégâts sont à présent bien visibles:1
-AvisGC_692:p:m:$$:blé:Epis blancs:1
-AvisGC_692:p:m:$$:blé:piétin échaudage:1
-AvisGC_692:p:m:$$:blé:piétin-verse:1
-AvisGC_692:p:m:$$:blé:septoriose:1
-AvisGC_692:p:m:$$:blé:rouille brune du blé:1
-AvisGC_692:p:m:$$:blé:fusariose:1
-AvisGC_692:p:s:$$:maïs:7 à 11 feuilles:1
-AvisGC_692:p:s:$$:maïs:8-10 feuilles:1
-AvisGC_692:p:b:$$:maïs:puceron:1
-AvisGC_692:p:b:n:$$:maïs:puceron:fin de sensibilité:1
-AvisGC_692:p:b:$$:maïs:pyrale:1
-AvisGC_692:p:s:$$:betterave:20 à 50% de couverture:1
-AvisGC_692:p:s:$$:betterave:recouvrent maintenant le sol:1
-AvisGC_692:p:b:$$:betterave:puceron:1
-AvisGC_692:p:b:$$:betterave:pégomyie de la betterave:1
-AvisGC_692:p:b:$$:betterave:noctuelle:1
-AvisGC_692:p:b:n:$$:betterave:noctuelle:défoliations sont parfois déjà observées:1
-AvisGC_692:p:b:n:$$:betterave:puceron:rares:1
+AvisGC 692:r:$:Champagne-Ardenne:
+AvisGC 692:nu:$:692:
+AvisGC 692:d:$:21.06.2006:
+AvisGC 692:f:$:pyréthrinoïde:chlorothalonil:triazole:amistar:
+AvisGC 692:p:$:colza:proteagineux:céréales:maïs:betterave:tournesol:pois protéagineux:féverole:blé:amandier:
+AvisGC 692:v:$:Reims-Courcy:Lavannes:Somme-Vesle:Mergey:Les Maupas:Marne:Aube:Rethelois:Perthois:Aube:sud de la Marne:
+AvisGC 692:b:$:bruche:tordeuse:pyrale:puceron:pégomyie de la betterave:puceron cendré:cécidomyie:pyrale:noctuelle:criocère:chenille:tordeuse des céréales:tordeuse du pois:
+AvisGC 692:a:$:coccinelle:syrphe:trichogramme:
+AvisGC 692:m:$:rouille:alternariose:oïdium:mildiou:pourriture grise:rouille:Epis blancs:piétin échaudage:piétin-verse:septoriose:rouille brune du blé:fusariose:
+AvisGC 692:n:$:stade de fin de sensibilité de la culture est maintenant atteint:nuisibilité sera faible à nulle:très faible:100 pucerons par tige:100 et 300 captures:400 captures cumulées:évolution rapide de la maladie:fin de sensibilité:défoliations sont parfois déjà observées:rares:
+AvisGC 692:s:$:G4:Bouton étoilé:de 2 à 6 cm:Gousses pleines sur le 1er étage:remplissage des gousses sur le deuxième:fin floraison:gousses plates:5 à 8 étages de gousses:Amande aqueuse à grain pâteux mou:Grain laiteux:dégâts sont à présent bien visibles:f2:f1:7 à 11 feuilles:8-10 feuilles:20 à 50% de couverture:recouvrent maintenant le sol:
+AvisGC 692:z:$:absents des cultures:absente:
+AvisGC 692:c:$:souffrent de la sécheresse:
+AvisGC 692:p:s:$$:colza:G4:1
+AvisGC 692:p:s:$$:colza:puceron cendré:1
+AvisGC 692:p:m:$$:colza:alternariose:1
+AvisGC 692:p:m:$$:colza:oïdium:1
+AvisGC 692:p:s:$$:colza:Bouton étoilé:1
+AvisGC 692:p:b:$$:colza:puceron:1
+AvisGC 692:p:b:n:$$:colza:puceron:fin de sensibilité de la culture est maintenant atteint:1
+AvisGC 692:p:s:$$:pois protéagineux:Gousses pleines sur le 1er étage:1
+AvisGC 692:p:s:$$:pois protéagineux:remplissage des gousses sur le deuxième:1
+AvisGC 692:p:s:$$:pois protéagineux:gousses plates:1
+AvisGC 692:p:b:$$:pois protéagineux:cécidomyie:1
+AvisGC 692:p:b:$$:pois protéagineux:tordeuse:1
+AvisGC 692:p:b:$$:pois protéagineux:puceron:1
+AvisGC 692:p:m:$$:pois protéagineux:rouille:1
+AvisGC 692:p:b:n:$$:pois protéagineux:cécidomyie:nuisibilité sera faible à nulle:1
+AvisGC 692:p:b:n:$$:pois protéagineux:puceron:très faible:1
+AvisGC 692:p:b:n:$$:pois protéagineux:puceron:100 pucerons par tige:1
+AvisGC 692:p:s:$$:pois protéagineux:fin floraison:1
+AvisGC 692:p:b:n:$$:pois protéagineux:tordeuse:100 et 300 captures:1
+AvisGC 692:p:b:n:$$:pois protéagineux:tordeuse:400 captures cumulées:1
+AvisGC 692:p:m:n:$$:pois protéagineux:rouille:évolution rapide de la maladie:1
+AvisGC 692:p:s:$$:féverole:5 à 8 étages de gousses:1
+AvisGC 692:p:b:$$:féverole:puceron:1
+AvisGC 692:p:b:$$:féverole:bruche:1
+AvisGC 692:p:m:$$:féverole:mildiou:1
+AvisGC 692:p:m:$$:féverole:pourriture grise:1
+AvisGC 692:p:m:$$:féverole:rouille:1
+AvisGC 692:p:s:$$:blé:Amande aqueuse à grain pâteux mou:1
+AvisGC 692:p:s:$$:blé:Grain laiteux:1
+AvisGC 692:p:s:$$:blé:f2:1
+AvisGC 692:p:s:$$:blé:f1:1
+AvisGC 692:p:b:$$:blé:puceron:1
+AvisGC 692:p:b:$$:blé:criocère:1
+AvisGC 692:p:b:$$:blé:tordeuse:1
+AvisGC 692:p:b:n:$$:blé:tordeuse:dégâts sont à présent bien visibles:1
+AvisGC 692:p:m:$$:blé:Epis blancs:1
+AvisGC 692:p:m:$$:blé:piétin échaudage:1
+AvisGC 692:p:m:$$:blé:piétin-verse:1
+AvisGC 692:p:m:$$:blé:septoriose:1
+AvisGC 692:p:m:$$:blé:rouille brune du blé:1
+AvisGC 692:p:m:$$:blé:fusariose:1
+AvisGC 692:p:s:$$:maïs:7 à 11 feuilles:1
+AvisGC 692:p:s:$$:maïs:8-10 feuilles:1
+AvisGC 692:p:b:$$:maïs:puceron:1
+AvisGC 692:p:b:n:$$:maïs:puceron:fin de sensibilité:1
+AvisGC 692:p:b:$$:maïs:pyrale:1
+AvisGC 692:p:s:$$:betterave:20 à 50% de couverture:1
+AvisGC 692:p:s:$$:betterave:recouvrent maintenant le sol:1
+AvisGC 692:p:b:$$:betterave:puceron:1
+AvisGC 692:p:b:$$:betterave:pégomyie de la betterave:1
+AvisGC 692:p:b:$$:betterave:noctuelle:1
+AvisGC 692:p:b:n:$$:betterave:noctuelle:défoliations sont parfois déjà observées:1
+AvisGC 692:p:b:n:$$:betterave:puceron:rares:1
 
-AvisGC_697:r:$:Champagne-Ardenne:
-AvisGC_697:nu:$:697:
-AvisGC_697:d:$:09.08.2006:
-AvisGC_697:p:$:betterave:céréales:
-AvisGC_697:v:$:Dosnon:Villiers aux Noeuds:Marne:Ardennes:
-AvisGC_697:b:$:mouche grise:noctuelle:teigne de la betterave:teigne:chenille:
-AvisGC_697:m:$:rouille:cercosporose:oïdium:rouille de la betterave:
-AvisGC_697:n:$:en cours de résorption:
-AvisGC_697:p:b:$$:betterave:noctuelle:1
-AvisGC_697:p:b:n:$$:betterave:noctuelle:en cours de résorption:1
-AvisGC_697:p:b:$$:betterave:teigne de la betterave:1
-AvisGC_697:p:m:$$:betterave:rouille:1
-AvisGC_697:p:m:$$:betterave:cercosporose:1
-AvisGC_697:p:m:$$:betterave:oïdium:1
-AvisGC_697:p:m:$$:betterave:rouille de la betterave:1
-AvisGC_697:p:b:$$:céréales:mouche grise:1
+AvisGC 697:r:$:Champagne-Ardenne:
+AvisGC 697:nu:$:697:
+AvisGC 697:d:$:09.08.2006:
+AvisGC 697:p:$:betterave:céréales:
+AvisGC 697:v:$:Dosnon:Villiers aux Noeuds:Marne:Ardennes:
+AvisGC 697:b:$:mouche grise:noctuelle:teigne de la betterave:teigne:chenille:
+AvisGC 697:m:$:rouille:cercosporose:oïdium:rouille de la betterave:
+AvisGC 697:n:$:en cours de résorption:
+AvisGC 697:p:b:$$:betterave:noctuelle:1
+AvisGC 697:p:b:n:$$:betterave:noctuelle:en cours de résorption:1
+AvisGC 697:p:b:$$:betterave:teigne de la betterave:1
+AvisGC 697:p:m:$$:betterave:rouille:1
+AvisGC 697:p:m:$$:betterave:cercosporose:1
+AvisGC 697:p:m:$$:betterave:oïdium:1
+AvisGC 697:p:m:$$:betterave:rouille de la betterave:1
+AvisGC 697:p:b:$$:céréales:mouche grise:1
 
-AvisGC_706:r:$:Champagne-Ardenne:
-AvisGC_706:nu:$:706:
-AvisGC_706:d:$:20.12.2006:
-AvisGC_706:p:$:maïs:
-AvisGC_706:b:$:chrysomèle des racines du maïs:chrysomèle des racines du maïs:
-AvisGC_706:p:b:$$:maïs:chrysomèle des racines du maïs:1
+AvisGC 706:r:$:Champagne-Ardenne:
+AvisGC 706:nu:$:706:
+AvisGC 706:d:$:20.12.2006:
+AvisGC 706:p:$:maïs:
+AvisGC 706:b:$:chrysomèle des racines du maïs:chrysomèle des racines du maïs:
+AvisGC 706:p:b:$$:maïs:chrysomèle des racines du maïs:1
 
 1-_BSV_Colza_-_Tournesol_S07_cle818b27:r:$:Champagne-Ardenne:
 1-_BSV_Colza_-_Tournesol_S07_cle818b27:nu:$:7:
