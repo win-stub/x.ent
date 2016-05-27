@@ -179,6 +179,12 @@ foreach my $fp (glob("\"$DIR_INPUT\"/*.{txt,xml}"))
 	$fn =~ s/[\-\_\.]/ /g;
 
 	my $data = $fn." ". Modules::Utils::ReadFile($fp);
+    #remove xml tags
+    my ($ext) = $fp =~ /(\.[^.]+)$/;
+    if($ext eq ".xml")
+    {
+        $data =~ s|<.+?>||g;
+    }
 	#prétraitement
 	#$data = Modules::Utils::NormailezeData($data);
 	
