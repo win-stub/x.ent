@@ -432,7 +432,7 @@ sub TraitementUnitex
     #compilation du graphe
     system("\"$tool_unitex\" Grf2Fst2 \"$main_graph\" -y --alphabet=\"$my_unitex/Alphabet.txt\" >> $file_ex");
     # Application du graphe
-    system("\"$tool_unitex\" Locate -t\"$text_snt\" \"$main_graphe_fst2\" -a\"$my_unitex/Alphabet.txt\" -L -M --all -m\"$dico\" -b -Y -qutf8-no-bom>> $file_ex");
+    system("\"$tool_unitex\" Locate -t\"$text_snt\" \"$main_graphe_fst2\" -a\"$my_unitex/Alphabet.txt\" -L -M --all -b -Y -qutf8-no-bom>> $file_ex");
     # Génération du texte annoté
     system("\"$tool_unitex\" Concord \"$dir_snt/concord.ind\" -m \"$file_source\" -qutf8-no-bom >> $file_ex");
     return $file_source;
