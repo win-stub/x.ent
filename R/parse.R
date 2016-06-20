@@ -1,18 +1,23 @@
 #this is a function main which it will call the main script
 options("encoding" = "UTF-8")
-xparse <- function(verbose = FALSE)
+xparse <- function(verbose=FALSE,json_path = "")
 {
     path    = paste(.libPaths()[1], "x.ent/Perl", sep='/')
-    command = paste("perl -I \"",path, "\" \"",path, "/", "Main.pl\"", sep='')
-    message(command)
-    message("Please, wait....")
-    exitcode <- system(command, wait=TRUE, ignore.stdout=!verbose, ignore.stderr=!verbose)
-    if(exitcode != 0) {
-      stop('Command exited with code ', exitcode, '.', if(!verbose){' Try again with verbose=TRUE to see details.'})
+    if(json_path == "")
+    {
+        command = paste("perl -I \"",path, "\" \"",path, "/", "Main.pl\"", sep='')
     }
+    else
+    {
+        command = paste("perl -I \"",path, "\" \"",path, "/", "Main.pl\""," \"",json_path,"\"", sep='')
+    }
+    print(command)
+    print("Please, wait ....")
+    test <- try(system(command, intern=TRUE,wait=TRUE))
     #rm(list=ls())
     gc(verbose=T) #garbage collection to free up memory
-    message("Let use functions for viewing the results: xshow(...), xhist(...), xplot(...)....")
+    print(test)
+    print("Let use functions for viewing the results: xshow(...), xhist(...), xplot(...)....")
 }
 xentity <- function()
 {
