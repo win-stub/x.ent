@@ -12,6 +12,7 @@ use utf8;
 use autodie;
 use File::Temp qw(tempdir);
 use File::Basename;
+use File::Copy;
 use File::Path qw/make_path/;
 use open(IO => ':encoding(utf8)');
 binmode(STDERR, ':utf8');
@@ -27,10 +28,22 @@ use Modules::Evaluation;
 use Modules::Parametre;
 #lire le fichier configuration
 my $start_time = time;
+#get path of configuration file if it exists in the commandline
+my $json_path = $ARGV[0];
 my $json;
 {
     local $/; #Enable 'slurp' mode
-    open my $fh, "<", $dir."/www/config/ini.json";
+    my $fh;
+    if(not defined $json_path)
+    {
+        open $fh, "<", $dir."/www/config/ini.json";
+    }
+    else
+    {
+        open $fh, "<", $json_path;
+        #copy current configuration file to configuration file default 
+        copy $json_path,$dir."/www/config/ini.json";
+    }
     $json = <$fh>;
     close $fh;
 }
