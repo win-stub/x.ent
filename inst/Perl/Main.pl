@@ -1,9 +1,11 @@
 ###############################################################################
 #Created: PHAN TRONG TIEN                                                     #
-#Created date: 20/03/2014  												  #
+#Created date: 20/03/2014
+#Modified date: 13/07/2014
 ###############################################################################
 use Cwd 'abs_path';
-my $dir =    abs_path($0) =~ s/Perl\/Main\.pl//r;
+my $dir =    abs_path($0);
+$dir =~ s/Perl\/Main\.pl//;
 
 use strict;
 use warnings;
