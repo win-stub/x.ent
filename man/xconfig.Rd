@@ -7,7 +7,10 @@
   This function allows users to configure the entire system, such as: paths for corpus, evaluation file, result file, dictionaries ...
 }
 \usage{
-  xconfig()
+  xconfig(json_path="")
+}
+\arguments{
+  \item{json_path}{path of configuration file (*.json)}
 }
 \details{
   System configuration
@@ -85,5 +88,6 @@
 }
 \examples{
   xconfig()
+  xconfig("C:/JSON/ini.json")
 }
 \keyword{config}

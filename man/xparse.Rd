@@ -5,7 +5,11 @@
 Call script Perl for extracting data from corpus. Before you run, you must configure a configuration file ini.json in the folder config as: dictionaries, graphs of grammar (Use tools Unitex for creating)...
 }
 \usage{
-xparse()
+xparse(json_path = "",verbose=FALSE)
+}
+\arguments{
+  \item{json_path}{path of configuration file (*.json)}
+  \item{verbose}{logical. Should R report extra information on progress? Set to TRUE by the command-line option --verbose.}
 }
 \details{
   Input: dictionaries, grammars (build with software Unitex).
