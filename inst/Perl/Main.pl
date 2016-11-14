@@ -185,7 +185,7 @@ if(exists($config->{"blacklist"}))
     }
 }
 open(OUTPUT,'>:raw:encoding(UTF8)',$FILE_OUTPUT) || die "Can't open this file: $FILE_OUTPUT";
-foreach my $fp (glob("\"$DIR_INPUT\"/*.{txt,xml}"))
+foreach my $fp (glob($DIR_INPUT."/*.{txt,xml}"))
 {
   print "File source:\"".$fp."\"\n";
 	my $f_name = ( split m{/}, $fp )[-1];
