@@ -35,7 +35,6 @@
 \seealso{
   \code{\link{xhist}} type graphique histogram\cr
   \code{\link{xplot}} type graphique plot\cr
-  \code{\link{xvenn}} type graphique venn\cr
 }
 \examples{
   xprop(v1=c("chou","colza"),v2=c("mouche du chou","rouille"))
