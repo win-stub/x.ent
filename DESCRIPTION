@@ -9,7 +9,7 @@ Authors@R: c(person("Nicolas", "Turenne", role = "aut", email = "nturenne.inra@y
     person("John", "Resig", role=c("ctb","cph"), comment = "the JavaScript file at inst/www/jquery-1.11.1.min.js"),
     person("Jeroen", "Ooms", role= "ctb", comment = "the JavaScript file at inst/www/opencpu-0.5.js"))
 Depends: R (>= 3.0.0),opencpu
-Imports: stringr,xtable,jsonlite,venneuler,ggplot2,statmod
+Imports: stringr,xtable,jsonlite,ggplot2,statmod
 Maintainer: Tien T. Phan <phantien84@gmail.com>
 License: GPL-3
 URL: https://github.com/win-stub/x.ent
