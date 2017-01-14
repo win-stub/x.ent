@@ -1,7 +1,6 @@
 exportPattern("^[[:alpha:]]+")
 import(stringr)
 import(xtable)
-import(opencpu)
 import(jsonlite)
 import(ggplot2)
 import(statmod)

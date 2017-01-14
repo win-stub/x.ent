@@ -43,8 +43,9 @@ my $json;
     else
     {
         open $fh, "<", $json_path;
-        #copy current configuration file to configuration file default 
-        copy $json_path,$dir."/www/config/ini.json";
+        #copy current configuration file to configuration file default
+        #print $json_path;
+        #copy $json_path,$dir."/www/config/ini.json";
     }
     $json = <$fh>;
     close $fh;

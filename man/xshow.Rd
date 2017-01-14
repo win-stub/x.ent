@@ -30,5 +30,5 @@ Show results after calling the function \code{xparse}.
 \author{Tien T. Phan}
 \seealso{
   \code{\link{xparse}}  call the main function of module extraction written by Perl\cr
-  \code{\link{xconfig}} system configuration\cr
+  \code{\link{xshow}} display results
 }

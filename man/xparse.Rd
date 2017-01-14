@@ -24,5 +24,5 @@ Result file includes:
   xparse()
 }
 \seealso{
-  \code{\link{xconfig}} system configuration
+  \code{\link{xshow}} display results
 }
