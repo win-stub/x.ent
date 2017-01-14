@@ -40,7 +40,7 @@ This function returns a data frame so that users can check or use it to create n
 \seealso{
   \code{\link{xplot}} type graphique plot\cr
   \code{\link{xshow}} display the results of extracted data\cr
-  \code{\link{xconfig}} system configuration\cr
+  \code{\link{xshow}} display results
 }
 \keyword{histogram}
 \keyword{graph}

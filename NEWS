@@ -1,5 +1,8 @@
  What new?
 ------------------------------
+1.1.7 14-01-2017
+    - Removed the packages: rJava, opencpu, vennueler
+    - Removed also the functions: xvenn, xconfig
 1.1.6 30-11-2016
     - fixed for problems "no visible global function definition ..."
 1.1.5 01-12-2015

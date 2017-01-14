@@ -45,7 +45,6 @@
   \code{\link{xhist}} type graphique histogram\cr
   \code{\link{xprop}} type graphique propotion\cr
   \code{\link{xshow}} displays results of extracted data\cr
-  \code{\link{xconfig}} system configuration\cr
 }
 \keyword{plot}
 \keyword{graph}
